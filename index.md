@@ -1,7 +1,5 @@
 ---
 layout: page
-menutitle: Home
-menuorder: 1
 ---
 
 ## About me
