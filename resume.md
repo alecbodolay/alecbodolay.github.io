@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: page
 menuorder: 3
 menutitle: Resume
 ---
