@@ -1,12 +1,20 @@
 # Site navigation links
 - title: Home
   url: /
+  blank: no
+  
 - title: Publications
   url: /publications/
+  blank: no
+  
 - title: Education
   url: /education/
+  blank: no
+  
 - title: Experience
   url: /experience/
+  blank: no
+  
 - title: CV
   url: /Resume(Alec-2023).pdf
   blank: yes
