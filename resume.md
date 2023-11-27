@@ -1,7 +1,5 @@
 ---
 layout: page
-menuorder: 3
-menutitle: Resume
 ---
 ## Currently
 
