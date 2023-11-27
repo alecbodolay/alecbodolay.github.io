@@ -1,7 +1,5 @@
 ---
 layout: page
-menutitle: Education
-menuorder: 2
 ---
 
 ## Undergraduate
