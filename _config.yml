@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Alec Bodolay
-  avatar: bio-pic.jpg
+  avatar: bio-pic.png
   bio              : "MGH | UCSB | SMC"
   # Do not include the @ symbol in your Twitter username
   email            : "abodolay@mgh.harvard.edu"
