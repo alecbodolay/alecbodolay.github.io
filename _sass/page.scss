@@ -429,7 +429,7 @@ $button-size: 1.5rem;
 		float: left;
 		margin-right: 25px;
 		max-width: 100px;
-		@include rounded(150px);
+		@include border-radius(150px);
 	}
 	.author-social {
 		display: inline-block;
