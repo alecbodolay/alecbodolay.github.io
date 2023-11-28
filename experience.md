@@ -3,7 +3,7 @@ layout: page
 ---
 ## Currently
 
-![](/images/mgh-logo.jpg){: style="width: 125px; float: left"}
+![](/images/mgh-logo.png){: style="width: 125px; float: left"}
 
 ## Education
 
