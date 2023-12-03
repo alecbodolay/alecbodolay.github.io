@@ -4,11 +4,13 @@ layout: page
 ---
 ## Currently
 
-![](/images/mgh-logo.png){: style="width: 125px; float: left"}
+`October 2022 - Present`
+![](/images/mgh-logo.png){: style="width: 125px; float: left"} 
 
-## Education
+### Massachusetts General Hospital, Boston MA
+Programmer, Center for Addiction Medicine
 
-`1990 - 1994`
+
 __University Name__
 Degree Awarded
 
