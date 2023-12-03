@@ -8,7 +8,7 @@ layout: resume
 ![](/images/UCSB_seal.jpg){: style="width: 110px; float: left"}
 `January 2021 - September 2022`
 {: style="text-align: center" }
-<n/>
+<br/>
 &emsp; [**University of California Santa Barbara**](https://www.ucsb.edu/){:target="\_blank" style="color:#343434"} 
 <br/> &emsp; B.S in Behavioral Neuroscience
 
