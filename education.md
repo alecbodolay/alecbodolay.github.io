@@ -9,7 +9,9 @@ layout: resume
 <br/>
 &emsp; [**University of California Santa Barbara**](https://www.ucsb.edu/){:target="\_blank" style="color:#343434"} 
 <br/> &emsp; B.S in Behavioral Neuroscience
+
 <br/>
+
 ![](/images/SMC_seal.png){: style="width: 100px; float: left"}
 `August 2017 - July 2020`
 {: style="text-align: center" }
