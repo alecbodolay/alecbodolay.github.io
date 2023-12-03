@@ -22,7 +22,7 @@ owner:
 highlight-color: '#071602'
 lowlight-color: '#123305'
 mygreen: '#008000'
-myyellow: 'daa520'
+myyellow: '#daa520'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
