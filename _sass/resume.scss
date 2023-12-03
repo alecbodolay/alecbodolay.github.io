@@ -78,6 +78,7 @@
   position: relative;
   text-align: left;
   margin-top: 1.7em;
+  @include font-rem(20);
 }
 // Fix issue with the first content area floating up above border on print
 div#resume.resume{
