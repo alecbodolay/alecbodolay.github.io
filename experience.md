@@ -3,7 +3,7 @@ title: Experience
 layout: resume
 ---
 
-![](/images/mgh_hms_logo.png){: style="width: 75px; float: left"} 
+![](/images/mgh_hms_logo.png){: style="width: 50px; float: left"} 
 `Oct 2022 - Present`
 &emsp;__Massachusetts General Hospital, Boston MA__
 <br/>&emsp;Programmer, Center for Addiction Medicine
