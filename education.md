@@ -1,6 +1,6 @@
 ---
 title: Education
-layout: page
+layout: resume
 ---
 
 ### Education
