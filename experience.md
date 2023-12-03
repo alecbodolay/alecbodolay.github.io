@@ -15,13 +15,3 @@ layout: resume
 &emsp;__Bar-Ilan University, Tel-Aviv - Israel__
 <br/>&emsp;Research Intern, Developmental Neuropsychology Lab
 
-
-
-
-__University Name__
-Degree Awarded
-
-`1995 - 1997`
-__University Name__
-Degree Awarded 
-{: style="text-align: center" }
