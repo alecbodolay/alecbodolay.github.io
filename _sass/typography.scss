@@ -57,16 +57,16 @@ a {
 
 hyperlink {
 	text-decoration: none;
-	color: $myyellow;
+	color: $link-color;
 	&:visited {
-		color: darken($myyellow, 10);
+		color: darken($link-color, 10);
 	}
 	&:hover {
-		color: darken($myyellow, 10);
+		color: darken($link-color, 10);
 	}
 	&:focus {
 		outline: thin dotted;
-		color: $myyellow;
+		color: $link-color;
 	}
 	&:hover,
 	&:active {
