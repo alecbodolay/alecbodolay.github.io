@@ -5,7 +5,7 @@ layout: resume
 ## Currently
 
 ![](/images/mgh-logo.png){: style="width: 125px; float: left"} 
-## Massachusetts General Hospital, Boston MA `October 2022 - Present`
+# Massachusetts General Hospital, Boston MA `October 2022 - Present`
 {: style="text-align: center" }
 
 Programmer, Center for Addiction Medicine
