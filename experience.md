@@ -8,6 +8,7 @@ layout: resume
 __Massachusetts General Hospital, Boston MA__
 Programmer, Center for Addiction Medicine
 
+<br>
 
 ![](/images/barilan_logo.png){: style="width: 70px; float: left"} 
 `October 2022 - Present`
