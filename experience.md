@@ -4,14 +4,14 @@ layout: resume
 ---
 
 ![](/images/mgh_hms_logo.png){: style="width: 80px; float: left"} 
-`October 2022 - Present`
+`Oct 2022 - Present`
 &emsp;__Massachusetts General Hospital, Boston MA__
 <br/>&emsp;Programmer, Center for Addiction Medicine
 
 <br>
 
 ![](/images/barilan_logo.png){: style="width: 70px; float: left"} 
-`October 2022 - Present`
+`Oct 2020 - Dec 2020`
 &emsp;&emsp;__Bar-Ilan University, Tel-Aviv - Israel__
 <br/>&emsp;Research Intern, Developmental Neuropsychology Lab
 
