@@ -16,3 +16,7 @@ layout: page
 {: style="text-align: center" }
 &emsp;[**Santa Monica College**](https://www.smc.edu/){:target="\_blank" style="color:#343434"} 
 <br/> &emsp; A.A. in Biological Sciences
+
+<br>
+
+### Courses
