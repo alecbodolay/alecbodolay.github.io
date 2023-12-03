@@ -3,7 +3,7 @@ title: Experience
 layout: resume
 ---
 
-![](/images/mgh_hms_logo.png){: style="width: 80px; float: left"} 
+![](/images/mgh_hms_logo.png){: style="width: 75px; float: left"} 
 `Oct 2022 - Present`
 &emsp;__Massachusetts General Hospital, Boston MA__
 <br/>&emsp;Programmer, Center for Addiction Medicine
@@ -12,7 +12,7 @@ layout: resume
 
 ![](/images/barilan_logo.png){: style="width: 70px; float: left"} 
 `Oct 2020 - Dec 2020`
-&emsp;&emsp;__Bar-Ilan University, Tel-Aviv - Israel__
+&emsp;__Bar-Ilan University, Tel-Aviv - Israel__
 <br/>&emsp;Research Intern, Developmental Neuropsychology Lab
 
 
