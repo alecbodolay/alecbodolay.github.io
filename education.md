@@ -21,4 +21,4 @@ layout: resume
 
 <br>
 
-### Courses
+## Courses
