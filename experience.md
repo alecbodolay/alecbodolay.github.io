@@ -1,6 +1,6 @@
 ---
 title: Experience
-layout: page
+layout: resume
 ---
 ## Currently
 
