@@ -2,7 +2,6 @@
 title: Experience
 layout: resume
 ---
-## Currently
 
 ![](/images/mgh_hms_logo.png){: style="width: 85px; float: left"} 
 `October 2022 - Present`
