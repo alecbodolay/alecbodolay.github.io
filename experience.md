@@ -4,7 +4,7 @@ layout: resume
 ---
 ## Currently
 
-![](/images/mgh_hms_logo.png){: style="width: 125px; float: left"} 
+![](/images/mgh_hms_logo.png){: style="width: 100px; float: left"} 
 `October 2022 - Present`
 {: style="text-align: center" }
 ### Massachusetts General Hospital, Boston MA 
