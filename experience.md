@@ -9,6 +9,11 @@ layout: resume
 __Massachusetts General Hospital, Boston MA__
 Programmer, Center for Addiction Medicine
 
+![](/images/barilan_logo.png){: style="width: 85px; float: left"} 
+`October 2022 - Present`
+__Bar-Ilan University, Tel-Aviv - Israel__
+Research Intern, Developmental Neuropsychology Lab
+
 
 
 
