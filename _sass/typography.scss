@@ -51,28 +51,6 @@ a {
 	}
 }
 
-/*
-   hyperlinks
-   ========================================================================== */
-
-hyperlink {
-	text-decoration: none;
-	color: $link-color;
-	&:visited {
-		color: darken($link-color, 10);
-	}
-	&:hover {
-		color: darken($link-color, 10);
-	}
-	&:focus {
-		outline: thin dotted;
-		color: $link-color;
-	}
-	&:hover,
-	&:active {
-		outline: 0;
-	}
-}
 
 /*
    Figure captions
