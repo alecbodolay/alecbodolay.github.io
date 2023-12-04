@@ -18,5 +18,5 @@ layout: resume
 &emsp;__Bar-Ilan University, Tel-Aviv - Israel__
 <br/>&emsp;Research Intern, Developmental Neuropsychology Lab
 
-  &emsp;- Exploring Dyadic Brain and Behavioral Relations
+  &emsp;  * Exploring Dyadic Brain and Behavioral Relations
 
