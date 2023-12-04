@@ -123,11 +123,11 @@ em {
 		color: lighten($myyellow, 10);
 	}
 	&:hover {
-		color: darken($myyellow, 20);
+		color: darken($myyellow, 10);
 	}
 	&:focus {
 		outline: thin dotted;
-		color: darken($myyellow, 20);
+		color: darken($myyellow, 10);
 	}
 	&:hover,
 	&:active {
