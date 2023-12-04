@@ -120,14 +120,14 @@ em {
 .resume a {
   color: darken($mygreen, 30);
   	&:visited {
-		color: lighten($myyellow, 10);
+		color: lighten($mygreen, 10);
 	}
 	&:hover {
 		color: darken($mygreen, 10);
 	}
 	&:focus {
 		outline: thin dotted;
-		color: darken($myyellow, 10);
+		color: darken($mygreen, 10);
 	}
 	&:hover,
 	&:active {
