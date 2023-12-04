@@ -8,8 +8,8 @@ layout: resume
 &emsp;__Massachusetts General Hospital, Boston MA__
 <br/>&emsp;Programmer, Center for Addiction Medicine
 
-&emsp;&emsp;- Varenicline for Vaping Cessation
-<br/>&emsp;&emsp; - School-Wide Substance Use Factor Risk
+  - Varenicline for Vaping Cessation
+  - School-Wide Substance Use Factor Risk
 
 <br>
 
