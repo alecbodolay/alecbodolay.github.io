@@ -14,7 +14,7 @@ owner:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   codepen          :
   facebook         :
-  googlescholar    : bodolayalec
+  googlescholar    : "https://scholar.google.com/citations?user=v3VYtRkAAAAJ&hl=en&oi=ao"
   github           : alecbodolay
   linkedin         : alecbodolay
 
