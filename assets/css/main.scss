@@ -15,6 +15,7 @@ sitemap: false
 $highlightcolor: {{ site.highlight-color }};
 $lowlightcolor: {{ site.lowlight-color }};
 $mygreen: {{ site.mygreen }};
+$myyellow: {{ site.myyellow }};
 @import "variables";
 @import "grid";
 @import "mixins";
