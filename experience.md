@@ -8,8 +8,8 @@ layout: resume
 &emsp;__Massachusetts General Hospital, Boston MA__
 <br/>&emsp;Programmer, Center for Addiction Medicine
 
-  "    "- Varenicline for Vaping Cessation
-  "  "- School-Wide Substance Use Factor Risk
+  - Varenicline for Vaping Cessation
+  - School-Wide Substance Use Factor Risk
 
 <br>
 
@@ -18,5 +18,5 @@ layout: resume
 &emsp;__Bar-Ilan University, Tel-Aviv - Israel__
 <br/>&emsp;Research Intern, Developmental Neuropsychology Lab
 
-  &emsp;  - Exploring Dyadic Brain and Behavioral Relations
+  - Exploring Dyadic Brain and Behavioral Relations
 
