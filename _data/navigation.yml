@@ -23,5 +23,9 @@
   url: /testquarto/
   blank: no
   
+- title: testR
+  url: /testr/
+  blank: no
+  
   
 
