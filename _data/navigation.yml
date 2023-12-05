@@ -18,14 +18,6 @@
 - title: CV
   url: /CV_Alec-Nov2023.pdf
   blank: yes
-  
-- title: testquarto
-  url: /testquarto/
-  blank: no
-  
-- title: testR
-  url: /testr/
-  blank: no
 
 - title: OldWays
   url: /oldways/
