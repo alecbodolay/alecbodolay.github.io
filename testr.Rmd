@@ -1,5 +1,5 @@
 ---
-title: "Test Rstudio"
+title: testR
 author: "Alec Bodolay"
 date: "`r Sys.Date()`"
 output: html_document
