@@ -24,11 +24,7 @@
   blank: no
   
 - title: testR
-  url: /testr/
-  blank: no
-  
-- title: testR2
-  url: /testr2/
+  url: /testrmd/
   blank: no
 
 - title: OldWays
