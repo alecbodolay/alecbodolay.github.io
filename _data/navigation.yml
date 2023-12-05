@@ -22,6 +22,10 @@
 - title: OldWays
   url: /oldways/
   blank: no
+
+- title: NewWay
+  url: /newway/
+  blank: no
   
   
 

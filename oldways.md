@@ -3,6 +3,4 @@ title: OldWays
 layout: resume
 ---
 
-File from repo
-
-modification from R
+created file from R modification from R
