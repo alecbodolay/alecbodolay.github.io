@@ -30,6 +30,10 @@
 - title: testR2
   url: /testr2/
   blank: no
+
+- title: OldWays
+  url: /oldways/
+  blank: no
   
   
 
