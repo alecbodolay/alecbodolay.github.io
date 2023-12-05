@@ -1,6 +1,6 @@
 ---
 title: "Test quarto"
-format: html
+layout: resume
 ---
 
 ## Quarto
