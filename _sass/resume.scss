@@ -120,7 +120,7 @@ em {
 .resume a {
   color: darken($myyellow, 30);
   	&:visited {
-		color: lighten($myyellow, 20);
+		color: $myyellow;
 	}
 	&:hover {
 		color: darken($myyellow, 10);
