@@ -13,7 +13,8 @@ owner:
   email            : "abodolay@mgh.harvard.edu"
   codepen          :
   facebook         :
-  googlescholar    : "https://scholar.google.com/citations?user=v3VYtRkAAAAJ&hl=en&oi=ao"
+  google:
+    scholar        : bodolayalec
   github           : alecbodolay
   linkedin         : alecbodolay
 
