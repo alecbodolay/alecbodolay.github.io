@@ -11,12 +11,12 @@ owner:
   bio              : "MGH | UCSB | SMC"
   # Do not include the @ symbol in your Twitter username
   email            : "abodolay@mgh.harvard.edu"
+  linkedin         : alecbodolay
   codepen          :
   facebook         :
   google:
      scholar       : bodolayalec
   github           : alecbodolay
-  linkedin         : alecbodolay
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
