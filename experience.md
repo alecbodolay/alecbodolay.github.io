@@ -14,7 +14,7 @@ layout: resume
 <br>
 
 ![](/images/barilan_logo.png){: style="width: 60px; float: left"} 
-`Oct 2020 - Dec 2020`
+`Aug 2020 - Dec 2020`
 &emsp;__Bar-Ilan University, Tel-Aviv - Israel__
 <br/>&emsp;Research Intern, Developmental Neuropsychology Lab
 
