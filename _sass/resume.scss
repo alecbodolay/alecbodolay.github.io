@@ -118,7 +118,7 @@ em {
 }
 
 .resume a {
-  color: darken($mygreen, 30);
+  color: $mygreen;
   	&:visited {
 		color: $myyellow;
 	}
