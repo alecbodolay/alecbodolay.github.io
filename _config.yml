@@ -20,8 +20,8 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#071602'
 lowlight-color: '#123305'
+highlight-color: '#071602'
 mygreen: '#008000'
 myyellow: '#daa520'
 
