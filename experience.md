@@ -10,7 +10,7 @@ layout: resume
   - Varenicline for Vaping Cessation
   - School-Wide Substance Use Factor Risk
 
-<br>
+<br style="clear:both" />
 
 ![](/images/barilan_logo.png){: style="width: 60px; float: left"} 
 `Aug 2020 - Dec 2020`
