@@ -9,8 +9,7 @@ layout: resume
 <br/>&emsp;Programmer, Center for Addiction Medicine
 
   - Varenicline for Vaping Cessation
-  - School-Wide Substance Use Factor Risk
-{overflow = hidden;}
+  - School-Wide Substance Use Factor Risk{: overflow = hidden;}
 
 <br style="clear:both" />
 
