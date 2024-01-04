@@ -5,6 +5,7 @@ layout: resume
 
 ![](/images/mgh_hms_logo.png){: style="width: 60px; float: left"} 
 `Oct 2022 - Present`
+{: style="text-align: center" }
 &emsp;__Massachusetts General Hospital, Boston MA__
 <br/>&emsp;Programmer, Center for Addiction Medicine
 
@@ -20,3 +21,9 @@ layout: resume
 
   - Exploring Dyadic Brain and Behavioral Relations
 
+![](/images/UCSB_seal.jpg){: style="width: 100px; float: left"}
+`January 2021 - September 2022`
+{: style="text-align: center" }
+<br/>
+&emsp; [**University of California Santa Barbara**](https://www.ucsb.edu/){:target="\_blank" style="color:#343434"} 
+<br/> &emsp; B.S in Behavioral Neuroscience
