@@ -20,10 +20,3 @@ layout: resume
 <br/>&emsp;Research Intern, Developmental Neuropsychology Lab
 
   - Exploring Dyadic Brain and Behavioral Relations
-
-![](/images/UCSB_seal.jpg){: style="width: 100px; float: left"}
-`January 2021 - September 2022`
-{: style="text-align: center" }
-<br/>
-&emsp; [**University of California Santa Barbara**](https://www.ucsb.edu/){:target="\_blank" style="color:#343434"} 
-<br/> &emsp; B.S in Behavioral Neuroscience
