@@ -20,3 +20,12 @@ layout: resume
 <br/>&emsp;Research Intern, Developmental Neuropsychology Lab
   - Exploring Dyadic Brain and Behavioral Relations
 {: style="margin-left:65px" }
+
+![](/images/SMC_seal.png){: style="width: 60px; float: left"} 
+`Aug 2018 - Dec 2019`
+&emsp;__Santa Monica College, Los Angeles CA__
+<br/>&emsp;Tutor, Mathematics Lab
+  - Algebra, Trigonometry, Geometrey, Calculus I, Calculus II
+{: style="margin-left:65px" }
+
+
