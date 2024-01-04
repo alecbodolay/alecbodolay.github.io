@@ -3,7 +3,7 @@ title: Education
 layout: resume
 ---
 
-![](/images/UCSB_seal.jpg){: style="width: 100px; float: left"}
+![](/images/UCSB_seal.jpg){: style="width: 70px; float: left"}
 `January 2021 - September 2022`
 {: style="text-align: center" }
 <br/>
@@ -12,7 +12,7 @@ layout: resume
 
 <br style="clear:both" />
 
-![](/images/SMC_seal.png){: style="width: 100px; float: left"}
+![](/images/SMC_seal.png){: style="width: 70px; float: left"}
 `August 2017 - July 2020`
 {: style="text-align: center" }
 <br/>
