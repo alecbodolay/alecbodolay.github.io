@@ -11,7 +11,7 @@ layout: resume
 
   - Varenicline for Vaping Cessation
   - School-Wide Substance Use Factor Risk
-{: style="margin-left:20px" }
+{: style="margin-left:50px" }
 
 <br style="clear:both" />
 
