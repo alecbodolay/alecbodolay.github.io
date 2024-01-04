@@ -16,7 +16,7 @@ layout: resume
 `August 2017 - July 2020`
 {: style="text-align: center" }
 <br/>
-&emsp;[**Santa Monica College**](https://www.smc.edu/){:target="\_blank" style="color:#343434"} 
+&emsp; [**Santa Monica College**](https://www.smc.edu/){:target="\_blank" style="color:#343434"} 
 <br/> &emsp; A.A. in Biological Sciences
 
 <br>
