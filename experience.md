@@ -21,3 +21,4 @@ layout: resume
 <br/>&emsp;Research Intern, Developmental Neuropsychology Lab
 
   - Exploring Dyadic Brain and Behavioral Relations
+{: style="margin-left:70px" }
