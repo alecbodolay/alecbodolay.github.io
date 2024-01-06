@@ -23,8 +23,8 @@ layout: resume
 
 ## Relevant Undergraduate Courses
 
-PSY 111    Fundamentals of Behavioral Neuroscience 
-<br/>PSY 113L   Laboratory in Brain Cell Analysis 
-PSY 134    Psychopharmacology: Drugs of Abuse
-PSY 137    Behavioral Endocrinology 
-PSY 155    Evolution and Cognition
+PSY 111         &emsp;Fundamentals of Behavioral Neuroscience 
+<br/>PSY 113L   &emsp;Laboratory in Brain Cell Analysis 
+<br/>PSY 134    &emsp;Psychopharmacology: Drugs of Abuse
+<br/>PSY 137    &emsp;Behavioral Endocrinology 
+<br/>PSY 155    &emsp;Evolution and Cognition
