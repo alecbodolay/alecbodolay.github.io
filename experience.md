@@ -27,7 +27,7 @@ layout: resume
 `Aug 2018 - Dec 2019`
 &emsp;__Santa Monica College, Los Angeles CA__
 <br/>&emsp;Tutor, Mathematics Lab
-  - Algebra, Trigonometry, Geometrey, Calculus I, Calculus II
+  - Algebra, Trigonometry, Geometry, Calculus I, Calculus II
 {: style="margin-left:65px" }
 
 
