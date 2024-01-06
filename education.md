@@ -6,14 +6,14 @@ layout: resume
 ## Education
 
 ![](/images/UCSB_seal.jpg){: style="width: 70px; float: left"}
-`January 2021 - September 2022`
+`Jan 2021 - Sept 2022`
 {: style="text-align: center" }
 <br/>
 &emsp; [**University of California Santa Barbara**](https://www.ucsb.edu/){:target="\_blank" style="color:#343434"} 
 <br/> &emsp; B.S in Behavioral Neuroscience
 
 ![](/images/SMC_seal.png){: style="width: 70px; float: left"}
-`August 2017 - July 2020`
+`Aug 2017 - Jul 2020`
 {: style="text-align: center" }
 <br/>
 &emsp; [**Santa Monica College**](https://www.smc.edu/){:target="\_blank" style="color:#343434"} 
