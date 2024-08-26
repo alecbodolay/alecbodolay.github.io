@@ -4,7 +4,7 @@ layout: resume
 ---
 
 ![](/images/mgh_hms_logo.png){: style="width: 60px; float: left"} 
-`Oct 2022 - Present`
+`Oct 2022 - Jul 2024`
 {: style="text-align: center" }
 &emsp;__Massachusetts General Hospital, Boston MA__
 <br/>&emsp;Programmer, Center for Addiction Medicine
