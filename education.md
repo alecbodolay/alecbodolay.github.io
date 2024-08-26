@@ -6,7 +6,7 @@ layout: resume
 ## History
 
 ![](/images/usc-logo.png){: style="width: 65px; float: left"}
-`Jan 2021 - Sept 2022`
+`Aug 2024 - May 2025`
 {: style="text-align: center" }
 <br/>
 &emsp; [**University of Southern California**](https://keck.usc.edu/){:target="\_blank" style="color:#343434"} 
