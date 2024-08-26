@@ -1,5 +1,21 @@
 # Site navigation links
-- title: 
+- title: Home
+  url: /home/
+  blank: no
+  
+- title: Publications
+  url: /publications/
+  blank: no
+  
+- title: Education
+  url: /education/
+  blank: no
+  
+- title: Experience
+  url: /experience/
+  blank: no
+  
+- title: CV
   url: 
-  menuorder: 
-
+  blank: yes
+  
