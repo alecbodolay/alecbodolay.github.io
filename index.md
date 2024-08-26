@@ -1,8 +1,6 @@
 ---
-layout: page
-excerpt: "About Me..."
-menutitle: Home
-menuorder: 1
+Title: Home
+layout: resume
 ---
 
 ## About me
