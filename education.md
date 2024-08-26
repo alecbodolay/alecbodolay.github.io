@@ -3,6 +3,8 @@ title: Education
 layout: resume
 ---
 
+## History
+
 ![](/images/UCSB_seal.jpg){: style="width: 70px; float: left"}
 `Jan 2021 - Sept 2022`
 {: style="text-align: center" }
