@@ -5,7 +5,7 @@ layout: resume
 
 ## History
 
-![](/images/usc-logo.png){: style="width: 65px; float: left"}
+![](/images/usc-logo.png){: style="width: 68px; float: left"}
 `Aug 2024 - May 2025`
 {: style="text-align: center" }
 <br/>
