@@ -1,8 +1,4 @@
-# Site navigation links
-- title: Home
-  url: /home/
-  blank: no
-  
+# Site navigation links  
 - title: Publications
   url: /publications/
   blank: no
