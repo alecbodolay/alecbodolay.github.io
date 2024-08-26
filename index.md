@@ -1,6 +1,6 @@
 ---
 Title: Home
-layout: page
+layout: resume
 ---
 
 ## About me
