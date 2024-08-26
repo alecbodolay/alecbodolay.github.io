@@ -5,6 +5,13 @@ layout: resume
 
 ## History
 
+![](/images/usc-logo.png){: style="width: 70px; float: left"}
+`Jan 2021 - Sept 2022`
+{: style="text-align: center" }
+<br/>
+&emsp; [**University of Southern California**](https://keck.usc.edu/){:target="\_blank" style="color:#343434"} 
+<br/> &emsp; M.S in Neuroimaging and Informatics
+
 ![](/images/UCSB_seal.jpg){: style="width: 70px; float: left"}
 `Jan 2021 - Sept 2022`
 {: style="text-align: center" }
