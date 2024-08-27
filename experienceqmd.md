@@ -6,10 +6,6 @@ testing
 
 [oi](pages/experience/experience2.html)
 
-[](pages/experience/experience2.html)
-
 ![](pages/experience/experience2.html)
-
-![oi](pages/experience/experience2.html)
 
 
