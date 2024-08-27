@@ -6,9 +6,13 @@
 - title: Education
   url: /education/
   blank: no
+
+- title: Experience
+  url: /experience/
+  blank: no
   
-- title: Experience2
-  url: /pages/experience/experience2.html
+- title: Experience_in_Quarto
+  url: /exeprienceqmd/
   blank: no
   
 - title: CV
