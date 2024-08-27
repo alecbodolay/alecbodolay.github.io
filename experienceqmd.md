@@ -1,9 +1,15 @@
 ---
 title: Experiencequarto
-output:
-  html_document:
-    template: pages/experience/experience2.html
 ---
 
-
 testing
+
+[oi](pages/experience/experience2.html)
+
+[](pages/experience/experience2.html)
+
+![](pages/experience/experience2.html)
+
+![oi](pages/experience/experience2.html)
+
+
