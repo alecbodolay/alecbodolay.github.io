@@ -12,7 +12,7 @@ layout: resume
 - School-Wide Substance Use Factor Risk
 {: style="margin-left:65px" }
 
-<br style="clear:both" />
+<style="clear:both" />
 
 ![](/images/barilan_logo.png){: style="width: 60px; float: left"} 
 `Aug 2020 - Dec 2020`
