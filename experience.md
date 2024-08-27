@@ -20,11 +20,11 @@ layout: resume
   - Exploring Dyadic Brain and Behavioral Relations
 {: style="margin-left:65px" }
 
-#<br style="clear:both" />
-
 ![](/images/SMC_seal.png){: style="width: 55px; float: left"} 
 `Aug 2018 - Dec 2019`
 &emsp;__Santa Monica College, Los Angeles CA__
 <br/>&emsp;Tutor, Mathematics Lab
   - Algebra, Trigonometry, Geometry, Calculus I, Calculus II
 {: style="margin-left:65px" }
+
+<br style="clear:both" />
