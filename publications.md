@@ -5,7 +5,7 @@ layout: resume
 
 ## 2024
 
-[2] Liu J., Knoll, J. S., Pascale, M. P., Gray, C., Bodolay A., Kevin W. Potter, Jodi Gilman, A. Eden Evins, Randi M. Schuster (2024, July). Intention to quit or reduce e-cigarettes, cannabis, and their co-use among a school-based sample of adolescents. Addictive Behavirors, Volume 157.
+[2] Liu J., Knoll, J. S., Pascale, M. P., Gray, C., __Bodolay A.__, Kevin W. Potter, Jodi Gilman, A. Eden Evins, Randi M. Schuster (2024, July). Intention to quit or reduce e-cigarettes, cannabis, and their co-use among a school-based sample of adolescents. Addictive Behavirors, Volume 157.
 
 ## 2023
 
