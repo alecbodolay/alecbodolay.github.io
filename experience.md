@@ -20,7 +20,7 @@ layout: resume
   - Exploring Dyadic Brain and Behavioral Relations
 {: style="margin-left:65px" }
 
-<br style="clear:both" />
+#<br style="clear:both" />
 
 ![](/images/SMC_seal.png){: style="width: 55px; float: left"} 
 `Aug 2018 - Dec 2019`
