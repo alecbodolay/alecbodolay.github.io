@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Alec Bodolay
   avatar: bio-pic.png
-  bio              : "MGH | UCSB | SMC"
+  bio              : "USC | MGH | UCSB | SMC"
   # Do not include the @ symbol in your Twitter username
   email            : "bodolay@usc.edu"
   linkedin         : alecbodolay
