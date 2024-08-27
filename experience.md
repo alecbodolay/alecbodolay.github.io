@@ -13,7 +13,7 @@ layout: resume
 {: style="margin-left:65px" }
 
 
-![](/images/barilan_logo.png){: style="width: 60px; float: left"} 
+![](/images/barilan_logo.png){: style="width: 55px; float: left"} 
 `Aug 2020 - Dec 2020`
 &emsp;__Bar-Ilan University, Tel-Aviv - Israel__
 <br/>&emsp;Research Intern, Developmental Neuropsychology Lab
@@ -22,7 +22,7 @@ layout: resume
 
 <br style="clear:both" />
 
-![](/images/SMC_seal.png){: style="width: 60px; float: left"} 
+![](/images/SMC_seal.png){: style="width: 55px; float: left"} 
 `Aug 2018 - Dec 2019`
 &emsp;__Santa Monica College, Los Angeles CA__
 <br/>&emsp;Tutor, Mathematics Lab
