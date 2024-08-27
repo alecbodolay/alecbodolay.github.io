@@ -1,5 +1,5 @@
 ---
-title: "Experience_q"
+title: "Experience in Quarto"
 ---
 
 ![](mgh_hms_logo.png){style="width: 60px; float: left"} 
