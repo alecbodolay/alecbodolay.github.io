@@ -4,16 +4,7 @@ output:
   html_document
 ---
 
-<img src="images/mgh_hms_logo.png" 
-  align = "left" 
-  width ="50" 
-  height="50">
-**Massachusetts General Hospital, Boston MA** `Oct 2022 - Jul 2024`
-Programmer, Center for Addiction Medicine
-<br style="clear:both" />
-
-
-![](images/mgh_hms_logo.png){width=80%}
+![](images/mgh_hms_logo.png){width=80px}
 |   **Massachusetts General Hospital, Boston MA**  `Oct 2022 - Jul 2024`
 |   Programmer, Center for Addiction Medicine
 
