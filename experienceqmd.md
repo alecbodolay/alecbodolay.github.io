@@ -1,10 +1,8 @@
 ---
 title: Experiencequarto
-output:
-  html_document
 ---
 
-![](images/mgh_hms_logo.png){width=80px}
+![](images/mgh_hms_logo.png){width=80px align="left"}
 |   **Massachusetts General Hospital, Boston MA**  `Oct 2022 - Jul 2024`
 |   Programmer, Center for Addiction Medicine
 
