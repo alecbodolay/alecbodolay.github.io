@@ -58,12 +58,6 @@ $navlinkcolorhover 	: darken($navlinkcolor, 10);
 $navlinkcolorvisited : lighten($navlinkcolorhover, 20);
 $navlinkcolorfocus 	: darken($navlinkcolorvisited, 10);
 
-$linkcolor 		    : #0015ff;
-$link-color       : $linkcolor;
-$linkcolorhover 	: darken($linkcolor, 10);
-$linkcolorvisited : lighten($linkcolorhover, 20);
-$linkcolorfocus 	: darken($linkcolorvisited, 10);
-
 /*
    Breakpoints
    ========================================================================== */
