@@ -118,16 +118,16 @@ em {
 
 .resume a {
 	text-decoration: none;
-	color: $navlink-color;
+	color: #0015ff;
 	&:visited {
-		color: $navlinkcolorvisited;
+		color: lighten(#0015ff, 20);
 	}
 	&:hover {
-		color: $navlinkcolorhover;
+		color: darken(#0015ff, 10);
 	}
 	&:focus {
 		outline: thin dotted;
-		color: $navlinkcolorfocus;
+		color: darken(#0015ff, 10);
 	}
 	&:active {
 		outline: 0;
