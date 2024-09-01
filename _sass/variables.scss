@@ -52,6 +52,12 @@ $vimeo-color        : #1ab7ea;
 $youtube-color      : #ff3333;
 
 /* links */
+$navlinkcolor 		    : #343434;
+$navlink-color       : $navlinkcolor;
+$navlinkcolorhover 	: darken($navlinkcolor, 10);
+$navlinkcolorvisited : lighten($navlinkcolorhover, 20);
+$navlinkcolorfocus 	: darken($navlinkcolorvisited, 10);
+
 $linkcolor 		    : #0015ff;
 $link-color       : $linkcolor;
 $linkcolorhover 	: darken($linkcolor, 10);
