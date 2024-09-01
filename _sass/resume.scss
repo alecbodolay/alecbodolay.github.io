@@ -116,6 +116,21 @@ em {
     float: right;
 }
 
-a:hover {
-  color: $highlightcolor;
+a {
+	text-decoration: none;
+	color: $navlink-color;
+	&:visited {
+		color: $navlinkcolorvisited;
+	}
+	&:hover {
+		color: $navlinkcolorhover;
+	}
+	&:focus {
+		outline: thin dotted;
+		color: $navlinkcolorfocus;
+	}
+	&:hover,
+	&:active {
+		outline: 0;
+	}
 }
