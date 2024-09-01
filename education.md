@@ -20,7 +20,6 @@ layout: resume
 ![](/images/SMC_seal.png){: style="width: 55px; float: left"}
 `Aug 2017 - Jul 2020`
 {: style="text-align: center" }
-<br/>
 &emsp; [**Santa Monica College**](https://www.smc.edu/){:target="\_blank" style="color:#343434"} 
 <br/> &emsp; A.A. in Biological Sciences
 
