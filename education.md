@@ -8,14 +8,12 @@ layout: resume
 ![](/images/usc-logo.png){: style="width: 55px; float: left"}
 `Aug 2024 - May 2025`
 {: style="text-align: center" }
-<br/>
 &emsp; [**University of Southern California**](https://keck.usc.edu/){:target="\_blank" style="color:#343434"} 
 <br/> &emsp; M.S in Neuroimaging and Informatics
 
 ![](/images/UCSB_seal.jpg){: style="width: 55px; float: left"}
 `Jan 2021 - Sept 2022`
 {: style="text-align: center" }
-<br/>
 &emsp; [**University of California Santa Barbara**](https://www.ucsb.edu/){:target="\_blank" style="color:#343434"} 
 <br/> &emsp; B.S in Behavioral Neuroscience
 
