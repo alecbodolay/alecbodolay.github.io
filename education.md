@@ -37,7 +37,7 @@ NIIN 500         &emsp; &emsp; Neuroimaging and Systems Neuroscience
 ## Relevant Undergraduate Courses
 
 PSY 111         &emsp; &emsp; Fundamentals of Behavioral Neuroscience 
-<br/>PSY 113L   &emsp; &emsp; Laboratory in Brain Cell Analysis 
+<br/>PSY 113L   &emsp; &emsp;Laboratory in Brain Cell Analysis 
 <br/>PSY 134    &emsp; &emsp; Psychopharmacology: Drugs of Abuse
 <br/>PSY 137    &emsp; &emsp; Behavioral Endocrinology 
 <br/>PSY 155    &emsp; &emsp; Evolution and Cognition
