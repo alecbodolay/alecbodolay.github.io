@@ -29,7 +29,7 @@ layout: resume
 
 NIIN 500         &emsp; &emsp; Neuroimaging and Systems Neuroscience
 <br/>NIIN 510    &emsp; &emsp; Fundamentals of Human Neuroimaging
-<br/>NIIN 530    &emsp; &emsp; Neuroimaging Data Acquisition with Magnetic Resonance Imaging
+<br/>NIIN 530    &emsp; &emsp; Neuroimaging Data Acquisition with MRI
 <br/>NIIN 540    &emsp; &emsp; Neuroimaging Data Processing Methods
 
 <br>
