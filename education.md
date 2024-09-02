@@ -25,10 +25,19 @@ layout: resume
 
 <br>
 
+## Graduate Courses
+
+NIIN 500         &emsp; &emsp; Neuroimaging and Systems Neuroscience
+<br/>NIIN 510    &emsp; &emsp; Fundamentals of Human Neuroimaging
+<br/>NIIN 530    &emsp; &emsp; Neuroimaging Data Acquisition with Magnetic Resonance Imaging
+<br/>NIIN 540    &emsp; &emsp; Neuroimaging Data Processing Methods
+
+<br>
+
 ## Relevant Undergraduate Courses
 
 PSY 111         &emsp; &emsp; Fundamentals of Behavioral Neuroscience 
-<br/>PSY 113L   &emsp;&emsp;Laboratory in Brain Cell Analysis 
+<br/>PSY 113L   &emsp; &emsp; Laboratory in Brain Cell Analysis 
 <br/>PSY 134    &emsp; &emsp; Psychopharmacology: Drugs of Abuse
 <br/>PSY 137    &emsp; &emsp; Behavioral Endocrinology 
 <br/>PSY 155    &emsp; &emsp; Evolution and Cognition
