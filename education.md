@@ -29,18 +29,23 @@ layout: resume
 
 <details>
   <summary>[NIIN 500 &emsp; &emsp; Neuroimaging and Systems Neuroscience]()</summary>
+  <p>
   Detailed overview of elemental neuroanatomy and brain systems
+  </p>
 </details>
 <details>
   <summary>[NIIN 510    &emsp; &emsp; Fundamentals of Human Neuroimaging]()</summary>
   Survey of anatomical and functional neuroimaging approaches and their use to explore the healthy as well as diseased human brain
+  </p>
 </details>
 <details>
   <summary>[>NIIN 530    &emsp; &emsp; Neuroimaging Data Acquisition with MRI]()</summary>
   MR-based techniques, pulse sequence design, and sources of image artifact, neuroimaging scanning technologies
+  </p>
 </details>
 <details>
   <summary>[>NIIN 540    &emsp; &emsp; Neuroimaging Data Processing Methods]()</summary>
+  </p>
   Investigation of data processing methods, and software strategies.
 </details>
 
