@@ -33,7 +33,7 @@ NIIN 500         &emsp; &emsp; Neuroimaging and Systems Neuroscience <details>
   
   hi
     
-  </details>
+</details>
 
 <br/>NIIN 510    &emsp; &emsp; Fundamentals of Human Neuroimaging
 <br/>NIIN 530    &emsp; &emsp; Neuroimaging Data Acquisition with MRI
