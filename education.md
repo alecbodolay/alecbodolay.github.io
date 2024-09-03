@@ -28,7 +28,7 @@ layout: resume
 ## Graduate Courses
 
 <details>
-  <summary> [NIIN 500 &emsp; &emsp; Neuroimaging and Systems Neuroscience] </summary>
+  <summary>[NIIN 500 &emsp; &emsp; Neuroimaging and Systems Neuroscience]</summary>
   hi
 </details>
 
