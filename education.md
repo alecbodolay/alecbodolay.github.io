@@ -35,18 +35,21 @@ layout: resume
 </details>
 <details>
   <summary>NIIN 510    &emsp; &emsp; Fundamentals of Human Neuroimaging</summary>
+  <p>
   Survey of anatomical and functional neuroimaging approaches and their use to explore the healthy as well as diseased human brain
   </p>
 </details>
 <details>
   <summary>NIIN 530    &emsp; &emsp; Neuroimaging Data Acquisition with MRI</summary>
+  <p>
   MR-based techniques, pulse sequence design, and sources of image artifact, neuroimaging scanning technologies
   </p>
 </details>
 <details>
   <summary>NIIN 540    &emsp; &emsp; Neuroimaging Data Processing Methods</summary>
-  </p>
+  <p>
   Investigation of data processing methods, and software strategies.
+  </p>
 </details>
 
 ## Relevant Undergraduate Courses
