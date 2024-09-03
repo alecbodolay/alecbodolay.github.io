@@ -20,8 +20,7 @@ Previously, I worked as a programmer at the [Center for Addicition Medicine](htt
 ## Technical Skills:
 
 - **Programming**
-  - R, Python, Matlab
-
+-   R, Python, Matlab
 - **Data Wrangling/Transformation**
   - Tidyverse, Excel
 - **Data Visualization**
