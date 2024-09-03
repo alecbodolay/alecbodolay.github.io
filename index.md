@@ -16,3 +16,14 @@ Previously, I worked as a programmer at the [Center for Addicition Medicine](htt
 - Systems and Networks
 - Psychedelics
 - Data science
+
+## Technical Skills:
+
+- Programming
+  - R, Python, Matlab
+- Data Wrangling/Transformation
+  - Tidyverse, Excel
+- Data Visualization
+  - ggplot2, matplotlib, FSL
+- Automation
+  - Targets 
