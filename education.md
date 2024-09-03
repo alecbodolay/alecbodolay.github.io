@@ -28,6 +28,15 @@ layout: resume
 ## Graduate Courses
 
 NIIN 500         &emsp; &emsp; Neuroimaging and Systems Neuroscience
+
+<details open>
+
+  <summary>click to elaborate</summary>
+
+  this one starts expanded because of the "open"
+
+</details>
+
 <br/>NIIN 510    &emsp; &emsp; Fundamentals of Human Neuroimaging
 <br/>NIIN 530    &emsp; &emsp; Neuroimaging Data Acquisition with MRI
 <br/>NIIN 540    &emsp; &emsp; Neuroimaging Data Processing Methods
