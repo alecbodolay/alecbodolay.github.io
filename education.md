@@ -29,11 +29,8 @@ layout: resume
 
 NIIN 500         &emsp; &emsp; Neuroimaging and Systems Neuroscience 
 <details>
-
   <summary>click to elaborate</summary>
-  
   hi
-    
 </details>
 
 <br/>NIIN 510    &emsp; &emsp; Fundamentals of Human Neuroimaging
