@@ -28,7 +28,6 @@ layout: resume
 ## Graduate Courses
 
 NIIN 500         &emsp; &emsp; Neuroimaging and Systems Neuroscience 
-
 <details>
 
   <summary>click to elaborate</summary>
