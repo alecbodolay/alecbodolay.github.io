@@ -23,8 +23,6 @@ layout: resume
 &emsp; [**Santa Monica College**](https://www.smc.edu/){:target="\_blank" style="color:#343434"} 
 <br/> &emsp; A.A. in Biological Sciences
 
-<br>
-
 ## Graduate Courses
 
 <details>
