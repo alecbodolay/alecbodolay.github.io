@@ -5,3 +5,5 @@ MRI Technology
 Processing Images
 
 Visualizing Pathologies
+
+MRI Safety
