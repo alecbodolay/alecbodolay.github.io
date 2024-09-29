@@ -2,7 +2,7 @@ new blog neuroimaging
 
 MRI Technology
 
-![](/images/mri_machine.png){: style="width: 150px} 
+![](/images/mri_machine.png){: style="width: 100px"} 
 
 Processing Images
 
