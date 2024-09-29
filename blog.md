@@ -1,14 +1,15 @@
-new blog neuroimaging
 
-MRI Technology
+### MRI Technology
 
 ![](/images/mri_machine.png){: style="width: 100px"} 
 
-Processing Images
+<br>
 
-Visualizing Pathologies
+### Processing Images
 
-MRI Safety
+### Visualizing Pathologies
+
+### MRI Safety
 
 
 
