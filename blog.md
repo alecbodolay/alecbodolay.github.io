@@ -10,8 +10,11 @@ layout: resume
 &emsp; Current developments
 
 <br/>&emsp; Overview (From tissue to image)
+
 <br/>&emsp; Processing and Improvinig Images
+
 <br/>&emsp; Visualizing Pathologies
+
 <br/>&emsp; Safety
 
 <br>
