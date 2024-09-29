@@ -1,7 +1,7 @@
 
 ### MRI Technology
 
-![](/images/mri_machine.png){: style="width: 100px"} 
+![](/images/mri_machine.png){: style="width: 300px"} 
 
 <br>
 
