@@ -8,10 +8,10 @@ layout: resume
 ![](/images/mri_machine.png){: style="width: 300px; float: left"} 
 
 &emsp; - Current developments
-&emsp; - Overview (From tissue to image)
-&emsp; - Processing and Improvinig Images
-&emsp; - Visualizing Pathologies
-&emsp; - Safety
+<br/>&emsp;- Overview (From tissue to image)
+<br/>&emsp;- Processing and Improvinig Images
+<br/>&emsp;- Visualizing Pathologies
+<br/>&emsp;- Safety
 
 <br>
 
