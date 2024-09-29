@@ -6,6 +6,7 @@ layout: resume
 ## MRI Technology
 
 ![](/images/mri_machine.png){: style="width: 300px; float: left"} 
+
 {: style="text-align: center" }
 - Current developments
 - Overview (From tissue to image)
