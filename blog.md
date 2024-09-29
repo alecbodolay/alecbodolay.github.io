@@ -3,17 +3,17 @@ title: blog
 layout: resume
 ---
 
-### MRI Technology
+## MRI Technology
 
 ![](/images/mri_machine.png){: style="width: 300px"} 
 
 <br>
 
-### Processing Images
+## Processing Images
 
-### Visualizing Pathologies
+## Visualizing Pathologies
 
-### MRI Safety
+## MRI Safety
 
 
 
