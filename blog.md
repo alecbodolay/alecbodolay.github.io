@@ -1,3 +1,6 @@
+---
+layout: resume
+---
 
 ### MRI Technology
 
