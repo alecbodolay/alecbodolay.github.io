@@ -11,8 +11,7 @@ Previously, I worked as a programmer at the [Center for Addicition Medicine](htt
 
 ## Current Interests and Projects:
 
-- Neuroimaging
-- Alzheimer's Disease
+- [Neuroimaging](https://alecbodolay.github.io/blog/)
 - Systems and Networks
 - Psychedelics
 - Data science
