@@ -18,7 +18,6 @@ layout: resume
 <br/>&emsp; Safety
 
 <br>
-<br>
 
 ## Other
 
