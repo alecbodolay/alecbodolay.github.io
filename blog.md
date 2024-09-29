@@ -1,4 +1,5 @@
 ---
+title: blog
 layout: resume
 ---
 
