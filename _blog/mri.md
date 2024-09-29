@@ -1,5 +1,5 @@
 ---
-title: MRI
+title: mri
 layout: resume
 collection: blog
 permalink: /_blog/mri
