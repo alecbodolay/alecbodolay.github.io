@@ -5,7 +5,7 @@ layout: resume
 
 ## MRI Technology
 
-![](/images/mri_machine.png){: style="width: 300px; float: left"} 
+&emsp;![](/images/mri_machine.png){: style="width: 300px; float: left"} 
 
 &emsp; Current developments
 <br/>
