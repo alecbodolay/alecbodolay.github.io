@@ -25,9 +25,9 @@ layout: resume
 
 Current developments
 <br/>
-Overview (From earth to treatment)
+<br/>Overview (From earth to treatment)
 <br/>
-Safety
+<br/>Safety
 
 <br style="clear:both" />
 
