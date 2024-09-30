@@ -18,4 +18,8 @@
 - title: Blog
   url: /blog/
   blank: yes
+
+- title: 
+  url: /_posts/
+  blank: yes
   
