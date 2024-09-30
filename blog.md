@@ -41,3 +41,4 @@ layout: resume
 
 images obtained from:
 <br/>&emsp; MRI machine - https://www.nursingcenter.com/ncblog/february-2024/mri
+<br/>&emsp; Mushrooms - https://scribewilcox.com/4050/sci-tech/magic-mushrooms/
