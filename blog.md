@@ -5,7 +5,7 @@ layout: resume
 
 ## MRI Technology
 
-&emsp;![](/images/mri_machine.png){: style="width: 300px; float: left"} 
+![](/images/mri_machine.png){: style="width: 300px; float: left"} 
 
 &emsp; Current developments
 <br/>
@@ -23,11 +23,11 @@ layout: resume
 
 ![](/images/psylocibin.jpeg){: style="width: 300px; float: right"} 
 
-&emsp; Current developments
+Current developments
 <br/>
-<br/>&emsp; Overview (From earth to treatment)
+Overview (From earth to treatment)
 <br/>
-<br/>&emsp; Safety
+Safety
 
 <br style="clear:both" />
 
