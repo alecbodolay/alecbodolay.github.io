@@ -13,7 +13,7 @@ Previously, I worked as a programmer at the [Center for Addicition Medicine](htt
 
 - [Neuroimaging](/_posts/mri.md)
 - Psychedelics
-- Data science
+- Data Science
 
 ## Technical Skills:
 
