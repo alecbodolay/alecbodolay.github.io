@@ -17,7 +17,7 @@ layout: resume
 <br/>
 <br/>&emsp; Safety
 
-<br>
+<br style="clear:both" />
 
 ## Psychedelics
 
