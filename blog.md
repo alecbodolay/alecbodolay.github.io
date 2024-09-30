@@ -19,6 +19,16 @@ layout: resume
 
 <br>
 
+## Psychedelics
+
+&emsp; Current developments
+<br/>
+<br/>&emsp; Overview (From earth to treatment)
+<br/>
+<br/>&emsp; Safety
+
+![](/images/mushrooms.jpeg){: style="width: 300px; float: right"} 
+
 ## Other
 
 
