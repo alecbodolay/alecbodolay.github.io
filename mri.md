@@ -1,24 +1,4 @@
 ---
 title: mri
-output:
-  html_document:
-    toc: yes
-    toc_depth: 3
+layout: resume
 ---
-
-# Test
-
-oi
-
-## Current developments
-
-oi
-
-
-# Test2
-
-oi
-
-## Test 4
-
-oi
