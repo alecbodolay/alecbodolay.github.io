@@ -2,7 +2,7 @@
 title: mri
 output:
   html_document:
-    toc: true
+    toc: yes
     toc_depth: 3
 ---
 
