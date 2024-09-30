@@ -21,13 +21,15 @@ layout: resume
 
 ## Psychedelics
 
+![](/images/mushrooms.jpeg){: style="width: 300px; float: right"} 
+
 &emsp; Current developments
 <br/>
 <br/>&emsp; Overview (From earth to treatment)
 <br/>
 <br/>&emsp; Safety
 
-![](/images/mushrooms.jpeg){: style="width: 300px; float: right"} 
+<br style="clear:both" />
 
 ## Other
 
