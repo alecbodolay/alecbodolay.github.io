@@ -21,7 +21,7 @@ layout: resume
 
 ## Psychedelics
 
-![](/images/mushrooms.jpeg){: style="width: 300px; float: right"} 
+![](/images/mushrooms.jpeg){: style="width: 250px; float: right"} 
 
 &emsp; Current developments
 <br/>
