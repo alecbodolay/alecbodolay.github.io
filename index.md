@@ -11,7 +11,7 @@ Previously, I worked as a programmer at the [Center for Addicition Medicine](htt
 
 ## Current Interests and Projects:
 
-- [Neuroimaging](/_blog/mri.md)
+- [Neuroimaging](/_posts/mri.md)
 - Psychedelics
 - Data science
 
