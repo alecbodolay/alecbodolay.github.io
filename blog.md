@@ -40,4 +40,4 @@ layout: resume
 
 
 images obtained from:
-MRI machine - https://www.nursingcenter.com/ncblog/february-2024/mri
+<br/>&emsp; MRI machine - https://www.nursingcenter.com/ncblog/february-2024/mri
