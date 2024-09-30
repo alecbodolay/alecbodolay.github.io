@@ -1,7 +1,7 @@
 ---
 title: mri
 layout: resume
-permalink: /_posts/mri.md
+permalink: /_posts/mri
 ---
 
 ## Current developments
