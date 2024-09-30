@@ -21,7 +21,7 @@ layout: resume
 
 ## Psychedelics
 
-![](/images/psylocibin.jpeg){: style="width: 250px; float: right"} 
+![](/images/psylocibin.jpeg){: style="width: 300px; float: right"} 
 
 &emsp; Current developments
 <br/>
