@@ -3,8 +3,6 @@ title: Education
 layout: resume
 ---
 
-## History
-
 ![](/images/usc-logo.png){: style="width: 55px; float: left"}
 `Aug 2024 - May 2025`
 {: style="text-align: center" }
