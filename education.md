@@ -71,6 +71,16 @@ layout: resume
   Investigation of data processing methods, and software strategies.
   </p>
 </details>
+<details>
+  <summary>NIIN 597    &emsp; &emsp; Current Topics in Neuroimaging Informatics</summary>
+  <p>
+  </p>
+</details>
+<details>
+  <summary>NIIN 600    &emsp; &emsp; Science Communications</summary>
+  <p>
+  </p>
+</details>
 
 ## Relevant Undergraduate Courses
 
