@@ -24,9 +24,33 @@ layout: resume
 ## Graduate Courses
 
 <details>
+  <summary>NIIN 520 &emsp; &emsp; Experimental Design for Neuroimaging</summary>
+  <p>
+  Study design approaches for experimental and clinical neuroimaging investigation
+  </p>
+</details>
+<details>
+  <summary>NIIN 550    &emsp; &emsp; Computational Modeling in Neuroimaging</summary>
+  <p>
+  Current neuroinformatics approaches to large-scale data representations, and mining in brain imaging
+  </p>
+</details>
+<details>
+  <summary>NIIN 570    &emsp; &emsp; Neuroimaging Genetics</summary>
+  <p>
+  Human genetics, epigenetics, and designing neuroimaging genetics studies
+  </p>
+</details>
+<details>
+  <summary>NIIN 580    &emsp; &emsp; Data Science in Neuroimaging</summary>
+  <p>
+  Data science applied to neuroimaging data, including statistical models and machine learning techniques
+  </p>
+</details>
+<details>
   <summary>NIIN 500 &emsp; &emsp; Neuroimaging and Systems Neuroscience</summary>
   <p>
-  Detailed overview of elemental neuroanatomy and brain systems
+  Detailed overview of neuroanatomy and brain systems
   </p>
 </details>
 <details>
