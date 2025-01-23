@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "I am a graduate student in the Neuroimaging and Informatics Master’s Program at the University of Southern California (USC). My research interest involves applying data science and machine learning to optimize image analysis, particularly MRI brain data."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "",
+    "section": "",
+    "text": "I am a graduate student in the Neuroimaging and Informatics Master’s Program at the University of Southern California (USC). My research interest involves applying data science and machine learning to optimize image analysis, particularly MRI brain data."
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "",
+    "section": "Background",
+    "text": "Background\n\nNeuroscience: Clinical Research;\nData Science: Visualization, processing, and machine learning;\nData engineering: Data pipeline implementation and optimization;\nImage analysis: MRI brain data with FSL and SPM\n\nI began building my foundation in data science through my role as a programmer at the Center for Addicition Medicine at Massachusetts General Hospital (MGH) from 2022 through 2024, under the supervision of Randi M. Shuster, PhD and Anne Eden Evins, MD, MPH, and co-authoring 4 papers on adolescent substance use."
+  }
+]
