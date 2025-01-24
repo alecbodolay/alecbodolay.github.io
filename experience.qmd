@@ -5,51 +5,44 @@ title: ""
 ## Experience
 
 ::: columns
-::: {.column width="7%"}
-![](/images/mgh_logo.png)
+::: {.column width="10%"}
+![](/images/mgh_logo.png){.absolute width="55"}
 :::
 
-::: {.column width="93%"}
-&emsp; __Massachusetts General Hospital, Boston MA__
-`Oct 2022 - Jul 2024`{style="float: right;"} <br/>
-&emsp; Programmer, Center for Addiction Medicine  <br/>
+::: {.column width="90%"}
+**Massachusetts General Hospital, Boston MA** `Oct 2022 - Jul 2024`{style="float: right;"} <br/> Programmer, Center for Addiction Medicine <br/>
 
-+ Data pipeline design, implementation, and maintenance for large-scale clinical trial data;
-+ Dataset harmonization (JSON and CSV, subject-level and event-level) for exploratory and primary analysis;
-+ R Shiny app development - data visualization and monitoring automation, and expedite data processing;
-+ Report design - annual epidemiological report automatically generated through Markdown.
+-   Data pipeline design, implementation, and maintenance for large-scale clinical trial data;
+-   Dataset harmonization (JSON and CSV, subject-level and event-level) for exploratory and primary analysis;
+-   R Shiny app development - data visualization and monitoring automation, and expedite data processing;
+-   Report design - annual epidemiological report automatically generated through Markdown.
 :::
 :::
 
 <br>
 
 ::: columns
-::: {.column width="7%"}
-![](/images/barilan_logo.png)
+::: {.column width="10%"}
+![](/images/barilan_logo.png){.absolute width="55"}
 :::
 
-::: {.column width="93%"}
-&emsp; __Bar-Ilan University, Tel-Aviv - Israel__
-`Aug 2020 - Dec 2020`{style="float: right;"} <br/>
-&emsp; Research Intern, Developmental Neuropsychology Lab <br/>
+::: {.column width="90%"}
+**Bar-Ilan University, Tel-Aviv - Israel** `Aug 2020 - Dec 2020`{style="float: right;"} <br/> Research Intern, Developmental Neuropsychology Lab <br/>
 
-+ Data processing, cleaning, and analysis for eye-tracking data to measure EEG and gaze coordination patterns using repeated measures ANOVA.
+-   Data processing, cleaning, and analysis for eye-tracking data to measure EEG and gaze coordination patterns using repeated measures ANOVA.
 :::
 :::
 
 <br>
 
 ::: columns
-::: {.column width="7%"}
-![](/images/SMC_seal.png)
+::: {.column width="10%"}
+![](/images/SMC_seal.png){.absolute width="55"}
 :::
 
-::: {.column width="93%"}
-&emsp; __Santa Monica College, Los Angeles CA__
-`Aug 2018 - Dec 2019`{style="float: right;"} <br/>
-&emsp; Tutor, Mathematics Lab <br/>
+::: {.column width="90%"}
+**Santa Monica College, Los Angeles CA** `Aug 2018 - Dec 2019`{style="float: right;"} <br/> Tutor, Mathematics Lab <br/>
 
-+ Algebra, Trigonometry, Geometry, Calculus I, Calculus II
+-   Algebra, Trigonometry, Geometry, Calculus I, Calculus II
 :::
 :::
-
