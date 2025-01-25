@@ -5,11 +5,11 @@ title: ""
 ## Experience
 
 ::: columns
-::: {.column width="10%"}
+::: {.column width="9%"}
 ![](/images/mgh_logo.png){.absolute width="55"}
 :::
 
-::: {.column width="90%"}
+::: {.column width="91%"}
 `Oct 2022 - Jul 2024`{style="float: right;"} **Massachusetts General Hospital, Boston MA** <br/> Programmer, Center for Addiction Medicine <br/>
 
 -   Data pipeline design, implementation, and maintenance for large-scale clinical trial data;
@@ -22,11 +22,11 @@ title: ""
 <br>
 
 ::: columns
-::: {.column width="10%"}
+::: {.column width="9%"}
 ![](/images/barilan_logo.png){.absolute width="55"}
 :::
 
-::: {.column width="90%"}
+::: {.column width="91%"}
 **Bar-Ilan University, Tel-Aviv - Israel** `Aug 2020 - Dec 2020`{style="float: right;"} <br/> Research Intern, Developmental Neuropsychology Lab <br/>
 
 -   Data processing, cleaning, and analysis for eye-tracking data to measure EEG and gaze coordination patterns using repeated measures ANOVA.
@@ -36,11 +36,11 @@ title: ""
 <br>
 
 ::: columns
-::: {.column width="10%"}
+::: {.column width="9%"}
 ![](/images/SMC_seal.png){.absolute width="55"}
 :::
 
-::: {.column width="90%"}
+::: {.column width="91%"}
 **Santa Monica College, Los Angeles CA** `Aug 2018 - Dec 2019`{style="float: right;"} <br/> Tutor, Mathematics Lab <br/>
 
 -   Algebra, Trigonometry, Geometry, Calculus I, Calculus II

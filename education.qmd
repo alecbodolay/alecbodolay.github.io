@@ -5,40 +5,42 @@ title: ""
 ## Education
 
 ::: columns
-::: {.column width="7%"}
-![](/images/usc-logo.png)
+::: {.column width="9%"}
+![](/images/usc-logo.png){.absolute width="55"}
 :::
 
-::: {.column width="93%"}
-  [**University of Southern California**](https://keck.usc.edu/) [`Aug 2024 - May 2025`]{style="float: right;"} <br/>
-  M.S. in Neuroimaging and Informatics
-:::
-:::
-
-::: columns
-::: {.column width="7%"}
-![](/images/UCSB_seal.png)
-:::
-
-::: {.column width="93%"}
-  [**University of California Santa Barbara**](https://www.ucsb.edu/) [`Jan 2021 - Sept 2022`]{style="float: right;"} <br/>   B.S. in Behavioral Neuroscience
+::: {.column width="91%"}
+[`Aug 2024 - May 2025`]{style="float: right;"} [**University of Southern California**](https://keck.usc.edu/) <br/> 
+M.S. in Neuroimaging and Informatics
 :::
 :::
 
 ::: columns
-::: {.column width="7%"}
-![](/images/SMC_seal.png)
+::: {.column width="9%"}
+![](/images/UCSB_seal.png){.absolute width="55"}
 :::
 
-::: {.column width="93%"}
-  [**Santa Monica College**](https://www.smc.edu/) [`Aug 2017 - Jul 2020` ]{style="float: right;"} <br/>   A.A. in Biological Sciences
+::: {.column width="91%"}
+[`Jan 2021 - Sept 2022`]{style="float: right;"} [**University of California Santa Barbara**](https://www.ucsb.edu/)  <br/>
+B.S. in Behavioral Neuroscience
+:::
+:::
+
+::: columns
+::: {.column width="9%"}
+![](/images/SMC_seal.png){.absolute width="55"}
+:::
+
+::: {.column width="91%"}
+[`Aug 2017 - Jul 2020`]{style="float: right;"}[**Santa Monica College**](https://www.smc.edu/)  <br/> 
+A.A. in Biological Sciences
 :::
 :::
 
 ## Graduate Courses
 
-**Physics & Medical imaging**: <br/> Neuroimaging Data Acquisition with MRI (NIIN530); <br/> Fundamentals of Human Neuroimaging (NIIN 510); <br/> Experimental Design for Neuroimaging (NIIN 520); <br/>
+**Physics & Medical Imaging**: <br/> Neuroimaging Data Acquisition with MRI (NIIN530); <br/> Fundamentals of Human Neuroimaging (NIIN 510); <br/> Experimental Design for Neuroimaging (NIIN 520); <br/>
 
-**Data science & machine learning**: <br/> Neuroimaging Data Processing Methods (NIIN 540); <br/> Computational Modeling in Neuroimaging (NIIN 550); <br/> Data Science in Neuroimaging (NIIN 580);
+**Data Science & Machine Learning**: <br/> Neuroimaging Data Processing Methods (NIIN 540); <br/> Computational Modeling in Neuroimaging (NIIN 550); <br/> Data Science in Neuroimaging (NIIN 580);
 
-**Neuroscience & research**: <br/> Neuroimaging and Systems Neuroscience (NIIN 500); <br/> Neuroimaging Genetics (NIIN 570); <br/> Current Topics in Neuroimaging Informatics (NIIN 597); <br/> Science Communications (NIIN 600);
+**Neuroscience & Research**: <br/> Neuroimaging and Systems Neuroscience (NIIN 500); <br/> Neuroimaging Genetics (NIIN 570); <br/> Current Topics in Neuroimaging Informatics (NIIN 597); <br/> Science Communications (NIIN 600);
