@@ -24,10 +24,12 @@ website:
         text: "&nbsp; Email"
         href: "mailto:bodolay@usc.edu"
       - icon: linkedin
-        href: https://www.linkedin.com/in/filipr/
+        href: https://www.linkedin.com/in/alecbodolay/
         text: "&nbsp; LinkedIn"
       - text: "{{< ai google-scholar >}} &thinsp; &nbsp; Google Scholar"
         href: https://scholar.google.fr/citations?user=bodolayalec
+      - text: "{{< ai researchgate >}} &thinsp; &nbsp; Research Gate"
+        href: https://www.researchgate.net/profile/Alec-Bodolay
       - icon: github
         text: "&nbsp; GitHub"
         href: https://github.com/alecbodolay/
