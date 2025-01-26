@@ -16,4 +16,4 @@ I am a graduate student in the [Neuroimaging and Informatics](https://niin.usc.e
 -   **Clinical Trials:** Statistical analysis, Good Clinical Practice (GCP);
 -   **Neuroscience:** Graduate and undergrduate studies.
 
-I began building my foundation in data science through my role as a programmer at the [Center for Addicition Medicine](https://www.mghaddictionmedicine.com) at Massachusetts General Hospital (MGH) from 2022 through 2024, under the supervision of Randi M. Shuster, PhD and Anne Eden Evins, MD, MPH, and co-authoring [4 papers](/publications.qmd) on adolescent substance use.
+I began building my foundation in data science through my role as a programmer at the [Center for Addiction Medicine](https://www.mghaddictionmedicine.com) at Massachusetts General Hospital (MGH) from 2022 through 2024, under the supervision of Randi M. Shuster, PhD and Anne Eden Evins, MD, MPH, and co-authoring [4 papers](/publications.qmd) on adolescent substance use.
