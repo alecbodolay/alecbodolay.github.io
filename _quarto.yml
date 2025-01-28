@@ -46,9 +46,9 @@ format:
     fontawesome: true
     code-tools: false
     grid:
-      sidebar-width: 400px
+      sidebar-width: 450px
       body-width: 800px;
-      margin-width: 200px
+      margin-width: 150px
  
 date: last-modified
 editor: visual
