@@ -10,8 +10,7 @@ title: ""
 :::
 
 ::: {.column width="91%"}
-[`Aug 2024 - May 2025`]{style="float: right;"} [**University of Southern California**](https://keck.usc.edu/) <br/> 
-M.S. in Neuroimaging and Informatics
+[`August 2024 - May 2025`]{style="float: right;"} [**University of Southern California**](https://keck.usc.edu/) <br/> M.S. in Neuroimaging and Informatics
 :::
 :::
 
@@ -21,8 +20,7 @@ M.S. in Neuroimaging and Informatics
 :::
 
 ::: {.column width="91%"}
-[`Jan 2021 - Sept 2022`]{style="float: right;"} [**University of California Santa Barbara**](https://www.ucsb.edu/)  <br/>
-B.S. in Behavioral Neuroscience
+[`January 2021 - September 2022`]{style="float: right;"} [**University of California Santa Barbara**](https://www.ucsb.edu/) <br/> B.S. in Behavioral Neuroscience
 :::
 :::
 
@@ -32,8 +30,7 @@ B.S. in Behavioral Neuroscience
 :::
 
 ::: {.column width="91%"}
-[`Aug 2017 - Jul 2020`]{style="float: right;"}[**Santa Monica College**](https://www.smc.edu/)  <br/> 
-A.A. in Biological Sciences
+[`August 2017 - June 2020`]{style="float: right;"}[**Santa Monica College**](https://www.smc.edu/) <br/> A.A. in Biological Sciences
 :::
 :::
 
