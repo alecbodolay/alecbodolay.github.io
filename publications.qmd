@@ -2,7 +2,7 @@
 title: ""
 ---
 
-## Publications
+## Conference
 
 ::: columns
 ::: {.column width="5%"}
@@ -10,7 +10,31 @@ title: ""
 :::
 
 ::: {.column width="95%"}
-Costello M. A., Pascale M. P., Potter, K., Knoll, S. J., **Bodolay, A.**, Kaur J., Du, R., Greenspan, L., Gray, C. A., McIntyre, J., & [Schuster, R. M.](https://researchers.mgh.harvard.edu/profile/12192374/Randi-Schuster) (forthcoming, 2025). Understanding Adolescent Mental Health Symptom Progression in School-Based Settings: The Substance Use and Risk Factors (SURF) Survey. *School Psychology*
+Costello, M., **Bodolay, A.**, Gray, C., Du, R., Potter, K., & Schuster, R. (2025). Emotional Reactivity is a Transdiagnostic Risk Factor for Substance Use Initiation in Middle and High School Students. *Drug and Alcohol Dependence*, 267, 111623 <br/> [\[abstract\]](https://www.sciencedirect.com/science/article/abs/pii/S0376871624005489)
+:::
+:::
+
+::: columns
+::: {.column width="5%"}
+\[2\]
+:::
+
+::: {.column width="95%"}
+Schuster, R., Cather, C., Pachas, G., Iroegbulem, V., Dufour, J. R., Casottana, K. D., Zhao, J., Potter, K., **Bodolay, A.**, Evins, A. E. (2025). Characteristics of Adolescents Presenting for a Pharmacotherapy Vaping Cessation Trial who Never Smoked Tobacco Regularly. *Drug and Alcohol Dependence*, 267, 111982 <br/> [\[abstract\]](https://www.sciencedirect.com/science/article/abs/pii/S0376871624009074)
+:::
+:::
+
+
+
+## Journal
+
+::: columns
+::: {.column width="5%"}
+\[1\]
+:::
+
+::: {.column width="95%"}
+Costello M. A., Pascale M. P., Potter, K., Knoll, S. J., **Bodolay, A.**, Kaur J., Du, R., Greenspan, L., Gray, C. A., McIntyre, J., & [Schuster, R. M.](https://researchers.mgh.harvard.edu/profile/12192374/Randi-Schuster) (2025). Understanding Adolescent Mental Health Symptom Progression in School-Based Settings: The Substance Use and Risk Factors (SURF) Survey. *School Psychology* <br/> [\[paper\]](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fspq0000681)
 :::
 :::
 

@@ -60,7 +60,7 @@
     "href": "publications.html",
     "title": "",
     "section": "",
-    "text": "[1]\n\nCostello M. A., Pascale M. P., Potter, K., Knoll, S. J., Bodolay, A., Kaur J., Du, R., Greenspan, L., Gray, C. A., McIntyre, J., & Schuster, R. M. (forthcoming, 2025). Understanding Adolescent Mental Health Symptom Progression in School-Based Settings: The Substance Use and Risk Factors (SURF) Survey. School Psychology\n\n\n\n\n[2]\n\nPachas, G. N., Reeder, H. T., Evins, A. E., Casottana, K., Borrego, M. M., Bodolay, A., Gray, C. A., Potter, K., W., Keuroghlian, A. S., & Schuster, R. M. (2025). Substance use, suicidal behaviors, and other mental health outcomes among youth with intersectional sexual and gender diverse identities. Journal of the American Academy of Child & Adolescent Psychiatry Open. In Press.  [paper]\n\n\n\n\n[3]\n\nLiu, J., Knoll, S. J., Pascale, M. P., Gray, C. A., Bodolay, A., Potter, K. W., Gilman, J., Eden Evins, A., & Schuster, R. M. (2024). Intention to quit or reduce e-cigarettes, cannabis,and their co-use among a school-based sample of adolescents. Addictive Behaviors, 157, 108101  [paper]\n\n\n\n\n[4]\n\nGray, C. A., Iroegbulem, V., Deming, B., Butler, R., Howell, D., Pascale, M. P., Bodolay, A., Potter, K., Turncliff, A., Lynch, S., Whittaker, J., Ward, J., Maximus, D., Pachas, G. N., & Schuster, R. M. (2023). Pragmatic Clinical Effectiveness Trial of a Novel Alternative to Punishment for School-Based Substance Use Infractions: Study Protocol for the iDECIDE Curriculum. Frontiers in Public Health, 11, 1203558 [paper]"
+    "text": "[1]\n\nCostello, M., Bodolay, A., Gray, C., Du, R., Potter, K., & Schuster, R. (2025). Emotional Reactivity is a Transdiagnostic Risk Factor for Substance Use Initiation in Middle and High School Students. Drug and Alcohol Dependence, 267, 111623  [abstract]\n\n\n\n\n[2]\n\nSchuster, R., Cather, C., Pachas, G., Iroegbulem, V., Dufour, J. R., Casottana, K. D., Zhao, J., Potter, K., Bodolay, A., Evins, A. E. (2025). Characteristics of Adolescents Presenting for a Pharmacotherapy Vaping Cessation Trial who Never Smoked Tobacco Regularly. Drug and Alcohol Dependence, 267, 111982  [abstract]"
   },
   {
     "objectID": "publications.html#publications",
@@ -75,5 +75,26 @@
     "title": "",
     "section": "",
     "text": "I am a graduate student in the Neuroimaging and Informatics Master’s Program at the University of Southern California (USC). My research interests involve applying data science and machine learning to process biomedical signals, with a focus in magnetic resonance images of the brain."
+  },
+  {
+    "objectID": "publications.html#conference-abstract",
+    "href": "publications.html#conference-abstract",
+    "title": "",
+    "section": "",
+    "text": "[1]\n\nSchuster, R., Cather, C., Pachas, G., Iroegbulem, V., Dufour, J. R., Casottana, K. D., Zhao, J., Potter, K., Bodolay, A., Evins, A. E. (2025). Characteristics of Adolescents Presenting for a Pharmacotherapy Vaping Cessation Trial who Never Smoked Tobacco Regularly. Drug and Alcohol Dependence, 267, 111982  [abstract]"
+  },
+  {
+    "objectID": "publications.html#journal",
+    "href": "publications.html#journal",
+    "title": "",
+    "section": "Journal",
+    "text": "Journal\n\n\n[1]\n\nCostello M. A., Pascale M. P., Potter, K., Knoll, S. J., Bodolay, A., Kaur J., Du, R., Greenspan, L., Gray, C. A., McIntyre, J., & Schuster, R. M. (2025). Understanding Adolescent Mental Health Symptom Progression in School-Based Settings: The Substance Use and Risk Factors (SURF) Survey. School Psychology  [paper]\n\n\n\n\n[2]\n\nPachas, G. N., Reeder, H. T., Evins, A. E., Casottana, K., Borrego, M. M., Bodolay, A., Gray, C. A., Potter, K., W., Keuroghlian, A. S., & Schuster, R. M. (2025). Substance use, suicidal behaviors, and other mental health outcomes among youth with intersectional sexual and gender diverse identities. Journal of the American Academy of Child & Adolescent Psychiatry Open. In Press.  [paper]\n\n\n\n\n[3]\n\nLiu, J., Knoll, S. J., Pascale, M. P., Gray, C. A., Bodolay, A., Potter, K. W., Gilman, J., Eden Evins, A., & Schuster, R. M. (2024). Intention to quit or reduce e-cigarettes, cannabis,and their co-use among a school-based sample of adolescents. Addictive Behaviors, 157, 108101  [paper]\n\n\n\n\n[4]\n\nGray, C. A., Iroegbulem, V., Deming, B., Butler, R., Howell, D., Pascale, M. P., Bodolay, A., Potter, K., Turncliff, A., Lynch, S., Whittaker, J., Ward, J., Maximus, D., Pachas, G. N., & Schuster, R. M. (2023). Pragmatic Clinical Effectiveness Trial of a Novel Alternative to Punishment for School-Based Substance Use Infractions: Study Protocol for the iDECIDE Curriculum. Frontiers in Public Health, 11, 1203558 [paper]"
+  },
+  {
+    "objectID": "publications.html#conference",
+    "href": "publications.html#conference",
+    "title": "",
+    "section": "",
+    "text": "[1]\n\nCostello, M., Bodolay, A., Gray, C., Du, R., Potter, K., & Schuster, R. (2025). Emotional Reactivity is a Transdiagnostic Risk Factor for Substance Use Initiation in Middle and High School Students. Drug and Alcohol Dependence, 267, 111623  [abstract]\n\n\n\n\n[2]\n\nSchuster, R., Cather, C., Pachas, G., Iroegbulem, V., Dufour, J. R., Casottana, K. D., Zhao, J., Potter, K., Bodolay, A., Evins, A. E. (2025). Characteristics of Adolescents Presenting for a Pharmacotherapy Vaping Cessation Trial who Never Smoked Tobacco Regularly. Drug and Alcohol Dependence, 267, 111982  [abstract]"
   }
 ]
