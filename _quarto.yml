@@ -12,7 +12,7 @@ website:
         text: Experience
       - href: education.qmd
         text: Education
-      - href: CV_AlecB_Grad_032025.pdf
+      - href: CV_AlecBodolay.pdf
         text: CV
   sidebar:
     style: docked
