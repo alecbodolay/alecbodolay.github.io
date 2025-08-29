@@ -6,15 +6,31 @@ title: ""
 
 ::: columns
 ::: {.column width="9%"}
+![](/images/chla_logo.png){.absolute width="55"}
+:::
+
+::: {.column width="91%"}
+`Jun 2025 - Present`{style="float: right;"} **Children's Hospital Los Angeles, Los Angeles CA** <br/> Research Assistant, Computational Imaging of Brain Organization Research Group <br/>
+
+-   Magnetic Resonance (MR) image processing of infant brains (ages 0-18).
+-   MRI brain data preprocessing, visualization, and analysis.
+-   Contribution to the development of a novel automated method for segmentation of pediatric brain structures.
+-   Data management.
+:::
+:::
+
+<br>
+
+::: columns
+::: {.column width="9%"}
 ![](/images/keck_med_seal.png){.absolute width="55"}
 :::
 
 ::: {.column width="91%"}
-`Mar 2025 - Present`{style="float: right;"} **Keck School of Medicine of USC, Los Angeles CA** <br/> Graduate Research Assistant <br/>
+`Jun 2025 - Present`{style="float: right;"} **USC Mark & Mary Stevens Neuroimaging and Informatics Institute, Los Angeles CA** <br/> Resource Employee, Laboratory of NeuroImaging <br/>
 
-- Processing magnetic resonance brain images (NIfTI).
-- Implementing contrast and shape-based rules to identify and segment Lacunar infarcts in the brain.
-- Evaluating imaging feature sets using Logistic Regression to improve classification accuracy of lacune pathology.
+-   Performing end-to-end server administration.
+-   Deploying XNAT instance on Linux server to manage neuroimaging research projects.
 :::
 :::
 
@@ -28,11 +44,11 @@ title: ""
 ::: {.column width="91%"}
 `Oct 2022 - Jul 2024`{style="float: right;"} **Massachusetts General Hospital, Boston MA** <br/> Programmer, Center for Addiction Medicine <br/>
 
-- Data pipeline design, implementation, and optimization for large-scale clinical trial data.
-- Shiny app and dashboard development - automate data processing, visualization, and monitoring
-- Dataset harmonization (JSON and CSV) for exploratory and primary analysis.
-- Collaborated with Biostatistician to implement the statistical analysis plan using Linear Regression.
-- Report design - annual epidemiological report automatically generated with Markdown.
+-   Data pipeline design, implementation, and optimization for large-scale clinical trial data.
+-   Shiny app and dashboard development - automation of data processing, visualization, and monitoring
+-   Dataset harmonization (JSON and CSV) for exploratory and primary analysis.
+-   Collaborated with Biostatistician to implement the statistical analysis plan using Linear Regression.
+-   Report design - annual epidemiological report automatically generated with Markdown.
 :::
 :::
 

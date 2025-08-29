@@ -19,7 +19,7 @@ website:
     logo: bio-pic.jpg
     contents:
       - text: "Alec Bodolay"
-      - text: "USC | UCSB | SMC"
+      - text: "CHLA | USC"
       - icon: envelope-fill
         text: "&nbsp; Email"
         href: "mailto:bodolay@usc.edu"
