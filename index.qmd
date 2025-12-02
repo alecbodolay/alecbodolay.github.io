@@ -6,16 +6,16 @@ modified-title: Last Modified
 
 ## About me
 
-I am currently a Research Assistant currently applying data science and machine learning to process and analyze magnetic resonance imaging (MRI) of pediatric brains at the [Computational Imaging of Brain Organization Research Group](https://www.ciborglab.com/) at Children's Hospital Los Angeles. 
+I am currently a Research Assistant applying data science and machine learning to process and analyze magnetic resonance imaging (MRI) of pediatric brains at the [Computational Imaging of Brain Organization Research Group](https://www.ciborglab.com/) at Children's Hospital Los Angeles. 
 
 I graduated in the [Neuroimaging and Informatics](https://niin.usc.edu/about#program) Master's Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging.
 
 ## Background
 
--   **Image Analysis:** MRI brain data using Python's package nibabel, FSL and SPM;
--   **Data Engineering:** Pipeline implementation/optimization and data management;
--   **Data Science:** Processing, visualization, analysis, and machine learning;
--   **Clinical Trials:** Statistical programming, and Good Clinical Practice (GCP);
+-   **Image Analysis:** Magnetic Resonance (MR) image processing and analysis using Python's package `nibabel`, `FSL` and `SPM`;
+-   **Data Science & Analysis:** Statistical tests (e.g., linear and logistic regression in `R` and `Python`), and generating interpretable results from behavioral and biomedical datasets;
+-   **Data Engineering:** Pipeline implementation/optimization, dataset harmonization, and database management;
+-   **Data Management:** Randomized clinical trials & Neuroimaging studies;
 -   **Neuroscience:** Graduate and undergraduate studies.
 
 I began building my foundation in data science through my role as a programmer at the [Center for Addiction Medicine](https://www.mghaddictionmedicine.com) at Massachusetts General Hospital (MGH) from 2022 through 2024, under the supervision of Randi M. Shuster, PhD and Anne Eden Evins, MD, MPH, co-authoring [4 papers](/publications.qmd) on adolescent substance use and on mental health.

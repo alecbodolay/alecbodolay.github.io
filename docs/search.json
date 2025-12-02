@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "I am currently a Research Assistant currently applying data science and machine learning to process and analyze magnetic resonance imaging (MRI) of pediatric brains at the Computational Imaging of Brain Organization Research Group at Children’s Hospital Los Angeles.\nI graduated in the Neuroimaging and Informatics Master’s Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging."
+    "text": "I am currently a Research Assistant applying data science and machine learning to process and analyze magnetic resonance imaging (MRI) of pediatric brains at the Computational Imaging of Brain Organization Research Group at Children’s Hospital Los Angeles.\nI graduated in the Neuroimaging and Informatics Master’s Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "",
     "section": "",
-    "text": "I am currently a Research Assistant currently applying data science and machine learning to process and analyze magnetic resonance imaging (MRI) of pediatric brains at the Computational Imaging of Brain Organization Research Group at Children’s Hospital Los Angeles.\nI graduated in the Neuroimaging and Informatics Master’s Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging."
+    "text": "I am currently a Research Assistant applying data science and machine learning to process and analyze magnetic resonance imaging (MRI) of pediatric brains at the Computational Imaging of Brain Organization Research Group at Children’s Hospital Los Angeles.\nI graduated in the Neuroimaging and Informatics Master’s Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging."
   },
   {
     "objectID": "index.html#background",
     "href": "index.html#background",
     "title": "",
     "section": "Background",
-    "text": "Background\n\nImage Analysis: MRI brain data using Python’s package nibabel, FSL and SPM;\nData Engineering: Pipeline implementation/optimization and data management;\nData Science: Processing, visualization, analysis, and machine learning;\nClinical Trials: Statistical programming, and Good Clinical Practice (GCP);\nNeuroscience: Graduate and undergraduate studies.\n\nI began building my foundation in data science through my role as a programmer at the Center for Addiction Medicine at Massachusetts General Hospital (MGH) from 2022 through 2024, under the supervision of Randi M. Shuster, PhD and Anne Eden Evins, MD, MPH, co-authoring 4 papers on adolescent substance use and on mental health."
+    "text": "Background\n\nImage Analysis: Magnetic Resonance (MR) image processing and analysis using Python’s package nibabel, FSL and SPM;\nData Science & Analysis: Statistical tests (e.g., linear and logistic regression in R and Python), and generating interpretable results from behavioral and biomedical datasets;\nData Engineering: Pipeline implementation/optimization, dataset harmonization, and database management;\nData Management: Randomized clinical trials & Neuroimaging studies;\nNeuroscience: Graduate and undergraduate studies.\n\nI began building my foundation in data science through my role as a programmer at the Center for Addiction Medicine at Massachusetts General Hospital (MGH) from 2022 through 2024, under the supervision of Randi M. Shuster, PhD and Anne Eden Evins, MD, MPH, co-authoring 4 papers on adolescent substance use and on mental health."
   },
   {
     "objectID": "experience.html",
