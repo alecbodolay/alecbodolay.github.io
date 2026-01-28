@@ -10,12 +10,14 @@ I am currently a Research Assistant applying data science and machine learning t
 
 I graduated in the [Neuroimaging and Informatics](https://niin.usc.edu/about#program) Master's Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging.
 
-## Background
+## Professional Background
 
--   **Image Analysis:** Magnetic Resonance (MR) image processing and analysis using Python's package `nibabel`, `FSL` and `SPM`;
--   **Data Science & Analysis:** Statistical tests (e.g., linear and logistic regression in `R` and `Python`), and generating interpretable results from behavioral and biomedical datasets;
--   **Data Engineering:** Pipeline implementation/optimization, dataset harmonization, and database management;
--   **Data Management:** Randomized clinical trials & Neuroimaging studies;
+-   **Neuroimaging:** Magnetic Resonance (MR) image processing and analysis using Python's package `nibabel`, `FSL` and `SPM`; MR image quality assurance; Supporting the development of deep-learning based segmentation models.
+-   **Data Science & Computational Analytics:** Used statistical methods and programming to frame research questions, evaluate experiments, analyze data, and support data-driven decisions on neuroimaging and psychiatric clinical studies.
+-   **Data Engineering & Infrastructure:** End-to-end data pipeline design, implementation, and maintenance; Querying databases and harmonizing datasets to support downstream analyses.
+-   **Data Management:** Managed clinical research studies and multi-site neuroimaging projects through coordinating data intake, improving data infrastructure, assessing data quality, and leading data review meetings.
+-   **Programming & Tools:** R (3+ years; tidyverse, targets, Shiny), Unix Shell (3+ years; Bash), Git (3+ years), Python (2+ years; pandas, nibabel, scikit-learn), MATLAB (1 year).
 -   **Neuroscience:** Graduate and undergraduate studies.
+
 
 I began building my foundation in data science through my role as a programmer at the [Center for Addiction Medicine](https://www.mghaddictionmedicine.com) at Massachusetts General Hospital (MGH) from 2022 through 2024, under the supervision of Randi M. Shuster, PhD and Anne Eden Evins, MD, MPH, co-authoring [4 papers](/publications.qmd) on adolescent substance use and on mental health.
