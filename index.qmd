@@ -1,12 +1,10 @@
 ---
 title: ""
-date-modified: last-modified
-modified-title: Last Modified
 ---
 
 ## About me
 
-I am currently a Research Assistant applying data science and machine learning to process and analyze magnetic resonance imaging (MRI) of pediatric brains at the [Computational Imaging of Brain Organization Research Group](https://www.ciborglab.com/) at Children's Hospital Los Angeles. 
+I am currently a Research Assistant applying data science and machine learning to process and analyze magnetic resonance imaging (MRI) of pediatric brains at the [Computational Imaging of Brain Organization Research Group](https://www.ciborglab.com/) at Children's Hospital Los Angeles.
 
 I graduated in the [Neuroimaging and Informatics](https://niin.usc.edu/about#program) Master's Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging.
 
@@ -18,6 +16,5 @@ I graduated in the [Neuroimaging and Informatics](https://niin.usc.edu/about#pro
 -   **Data Management:** Managed clinical research studies and multi-site neuroimaging projects through coordinating data intake, improving data infrastructure, assessing data quality, and leading data review meetings.
 -   **Programming & Tools:** R (3+ years; tidyverse, targets, Shiny), Unix Shell (3+ years; Bash), Git (3+ years), Python (2+ years; pandas, nibabel, scikit-learn), MATLAB (1 year).
 -   **Neuroscience:** Graduate and undergraduate studies.
-
 
 I began building my foundation in data science through my role as a programmer at the [Center for Addiction Medicine](https://www.mghaddictionmedicine.com) at Massachusetts General Hospital (MGH) from 2022 through 2024, under the supervision of Randi M. Shuster, PhD and Anne Eden Evins, MD, MPH, co-authoring [4 papers](/publications.qmd) on adolescent substance use and on mental health.

@@ -4,7 +4,7 @@ title: ""
 
 ## Experience
 
-::: columns
+::::: columns
 ::: {.column width="9%"}
 ![](/images/keck_med_seal.png){.absolute width="55"}
 :::
@@ -15,11 +15,11 @@ title: ""
 -   Built and maintained a secure Linux-based research server
 -   Deployed and managed an imaging informatics platform (XNAT)
 :::
-:::
+:::::
 
 <br>
 
-::: columns
+::::: columns
 ::: {.column width="9%"}
 ![](/images/chla_logo.png){.absolute width="55"}
 :::
@@ -32,11 +32,11 @@ title: ""
 -   Optimized data infrastructure in High-Performance Computing environment.
 -   Implemented data quality checks, supporting the development and validation of image segmentation models
 :::
-:::
+:::::
 
 <br>
 
-::: columns
+::::: columns
 ::: {.column width="9%"}
 ![](/images/mgh_logo.png){.absolute width="55"}
 :::
@@ -52,11 +52,11 @@ title: ""
 -   Managed and reviewed clinical trial databses through programming and Electronic Data Capture platforms (REDCap) with an oversight on data quality.
 -   Trained and mentored programmers on code reproducibility, data querying and manipulation, and best research practices.
 :::
-:::
+:::::
 
 <br>
 
-::: columns
+::::: columns
 ::: {.column width="9%"}
 ![](/images/barilan_logo.png){.absolute width="55"}
 :::
@@ -66,6 +66,6 @@ title: ""
 
 -   Data processing, cleaning, and analysis for eye-tracking data to measure EEG and gaze coordination patterns using repeated measures ANOVA.
 :::
-:::
+:::::
 
 <br>
