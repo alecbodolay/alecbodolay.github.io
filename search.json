@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "I am currently a Research Assistant applying data science and machine learning to process and analyze magnetic resonance imaging (MRI) of pediatric brains at the Computational Imaging of Brain Organization Research Group at Children’s Hospital Los Angeles.\nI graduated in the Neuroimaging and Informatics Master’s Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "",
+    "section": "",
+    "text": "I am currently a Research Assistant applying data science and machine learning to process and analyze magnetic resonance imaging (MRI) of pediatric brains at the Computational Imaging of Brain Organization Research Group at Children’s Hospital Los Angeles.\nI graduated in the Neuroimaging and Informatics Master’s Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging."
+  },
+  {
+    "objectID": "index.html#professional-background",
+    "href": "index.html#professional-background",
+    "title": "",
+    "section": "Professional Background",
+    "text": "Professional Background\n\nNeuroimaging: Magnetic Resonance (MR) image processing and analysis using Python’s package nibabel, FSL and SPM; MR image quality assurance; Supporting the development of deep-learning based segmentation models.\nData Science & Computational Analytics: Used statistical methods and programming to frame research questions, evaluate experiments, analyze data, and support data-driven decisions on neuroimaging and psychiatric clinical studies.\nData Engineering & Infrastructure: End-to-end data pipeline design, implementation, and maintenance; Querying databases and harmonizing datasets to support downstream analyses.\nData Management: Managed clinical research studies and multi-site neuroimaging projects through coordinating data intake, improving data infrastructure, assessing data quality, and leading data review meetings.\nProgramming & Tools: R (3+ years; tidyverse, targets, Shiny), Unix Shell (3+ years; Bash), Git (3+ years), Python (2+ years; pandas, nibabel, scikit-learn), MATLAB (1 year).\nNeuroscience: Graduate and undergraduate studies.\n\nI began building my foundation in data science through my role as a programmer at the Center for Addiction Medicine at Massachusetts General Hospital (MGH) from 2022 through 2024, under the supervision of Randi M. Shuster, PhD and Anne Eden Evins, MD, MPH, co-authoring 4 papers on adolescent substance use and on mental health."
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "",
+    "section": "",
+    "text": "August 2024 - May 2025 University of Southern California  M.S. in Neuroimaging and Informatics\n\n\n\n\n\n\nJanuary 2021 - September 2022 University of California Santa Barbara  B.S. in Behavioral Neuroscience\n\n\n\n\n\n\nAugust 2017 - June 2020Santa Monica College  A.A. in Biological Sciences"
+  },
+  {
+    "objectID": "education.html#education",
+    "href": "education.html#education",
+    "title": "",
+    "section": "",
+    "text": "August 2024 - May 2025 University of Southern California  M.S. in Neuroimaging and Informatics\n\n\n\n\n\n\nJanuary 2021 - September 2022 University of California Santa Barbara  B.S. in Behavioral Neuroscience\n\n\n\n\n\n\nAugust 2017 - June 2020Santa Monica College  A.A. in Biological Sciences"
+  },
+  {
+    "objectID": "education.html#graduate-courses",
+    "href": "education.html#graduate-courses",
+    "title": "",
+    "section": "Graduate Courses",
+    "text": "Graduate Courses\nPhysics & Medical Imaging:  Neuroimaging Data Acquisition with MRI (NIIN530);  Fundamentals of Human Neuroimaging (NIIN 510);  Experimental Design for Neuroimaging (NIIN 520); \nData Science & Machine Learning:  Neuroimaging Data Processing Methods (NIIN 540);  Computational Modeling in Neuroimaging (NIIN 550);  Data Science in Neuroimaging (NIIN 580);\nNeuroscience & Research:  Neuroimaging and Systems Neuroscience (NIIN 500);  Neuroimaging Genetics (NIIN 570);  Current Topics in Neuroimaging Informatics (NIIN 597);  Science Communications (NIIN 600);"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "",
+    "section": "",
+    "text": "Jun 2025 - Present USC’s Neuroimaging and Informatics Institute, Los Angeles CA  Resource Employee, Laboratory of NeuroImaging \n\nBuilt and maintained a secure Linux-based research server\nDeployed and managed an imaging informatics platform (XNAT)\n\n\n\n\n\n\n\n\nJun 2025 - Present Children’s Hospital Los Angeles, Los Angeles CA  Research Assistant, Computational Imaging of Brain Organization Research Group \n\nProcessing Magnetic Resonance (MR) images of infant brains (ages 0-18).\nAutomated neuroimaging preprocessing pipelines using containerized software.\nOptimized data infrastructure in High-Performance Computing environment.\nImplemented data quality checks, supporting the development and validation of image segmentation models\n\n\n\n\n\n\n\n\nOct 2022 - Jul 2024 Massachusetts General Hospital, Boston MA  Programmer, Center for Addiction Medicine \n\nEnd-to-end data pipeline design and implementation (version-controlled with Git) to ingest, clean, and analyze incoming clinical trial data.\nDeveloped and automated applications (in R Shiny) to monitor data ingestion, detect anomlaies, improve data cleaning and visualization.\nCompiled and harmonized longitudinal datasets to ensure consistency across all timepoints and enable cross-cohort comparisons.\nCollaborated with the Biostatistician and Principal Investigator on statistical analyses for primary, exploratory, and ad-hoc analyses.\nLed recurring data review meetings to identify systematic data issues and implement improvements in data processing and analysis workflows.\nManaged and reviewed clinical trial databses through programming and Electronic Data Capture platforms (REDCap) with an oversight on data quality.\nTrained and mentored programmers on code reproducibility, data querying and manipulation, and best research practices.\n\n\n\n\n\n\n\n\nBar-Ilan University, Tel-Aviv - Israel Aug 2020 - Dec 2020  Research Intern, Developmental Neuropsychology Lab \n\nData processing, cleaning, and analysis for eye-tracking data to measure EEG and gaze coordination patterns using repeated measures ANOVA."
+  },
+  {
+    "objectID": "experience.html#experience",
+    "href": "experience.html#experience",
+    "title": "",
+    "section": "",
+    "text": "Jun 2025 - Present USC’s Neuroimaging and Informatics Institute, Los Angeles CA  Resource Employee, Laboratory of NeuroImaging \n\nBuilt and maintained a secure Linux-based research server\nDeployed and managed an imaging informatics platform (XNAT)\n\n\n\n\n\n\n\n\nJun 2025 - Present Children’s Hospital Los Angeles, Los Angeles CA  Research Assistant, Computational Imaging of Brain Organization Research Group \n\nProcessing Magnetic Resonance (MR) images of infant brains (ages 0-18).\nAutomated neuroimaging preprocessing pipelines using containerized software.\nOptimized data infrastructure in High-Performance Computing environment.\nImplemented data quality checks, supporting the development and validation of image segmentation models\n\n\n\n\n\n\n\n\nOct 2022 - Jul 2024 Massachusetts General Hospital, Boston MA  Programmer, Center for Addiction Medicine \n\nEnd-to-end data pipeline design and implementation (version-controlled with Git) to ingest, clean, and analyze incoming clinical trial data.\nDeveloped and automated applications (in R Shiny) to monitor data ingestion, detect anomlaies, improve data cleaning and visualization.\nCompiled and harmonized longitudinal datasets to ensure consistency across all timepoints and enable cross-cohort comparisons.\nCollaborated with the Biostatistician and Principal Investigator on statistical analyses for primary, exploratory, and ad-hoc analyses.\nLed recurring data review meetings to identify systematic data issues and implement improvements in data processing and analysis workflows.\nManaged and reviewed clinical trial databses through programming and Electronic Data Capture platforms (REDCap) with an oversight on data quality.\nTrained and mentored programmers on code reproducibility, data querying and manipulation, and best research practices.\n\n\n\n\n\n\n\n\nBar-Ilan University, Tel-Aviv - Israel Aug 2020 - Dec 2020  Research Intern, Developmental Neuropsychology Lab \n\nData processing, cleaning, and analysis for eye-tracking data to measure EEG and gaze coordination patterns using repeated measures ANOVA."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "",
+    "section": "",
+    "text": "[1]\n\nCostello, M., Bodolay, A., Gray, C., Du, R., Potter, K., & Schuster, R. (2025). Emotional Reactivity is a Transdiagnostic Risk Factor for Substance Use Initiation in Middle and High School Students. Drug and Alcohol Dependence, 267, 111623  [abstract]\n\n\n\n\n[2]\n\nSchuster, R., Cather, C., Pachas, G., Iroegbulem, V., Dufour, J. R., Casottana, K. D., Zhao, J., Potter, K., Bodolay, A., Evins, A. E. (2025). Characteristics of Adolescents Presenting for a Pharmacotherapy Vaping Cessation Trial who Never Smoked Tobacco Regularly. Drug and Alcohol Dependence, 267, 111982  [abstract]"
+  },
+  {
+    "objectID": "publications.html#conference",
+    "href": "publications.html#conference",
+    "title": "",
+    "section": "",
+    "text": "[1]\n\nCostello, M., Bodolay, A., Gray, C., Du, R., Potter, K., & Schuster, R. (2025). Emotional Reactivity is a Transdiagnostic Risk Factor for Substance Use Initiation in Middle and High School Students. Drug and Alcohol Dependence, 267, 111623  [abstract]\n\n\n\n\n[2]\n\nSchuster, R., Cather, C., Pachas, G., Iroegbulem, V., Dufour, J. R., Casottana, K. D., Zhao, J., Potter, K., Bodolay, A., Evins, A. E. (2025). Characteristics of Adolescents Presenting for a Pharmacotherapy Vaping Cessation Trial who Never Smoked Tobacco Regularly. Drug and Alcohol Dependence, 267, 111982  [abstract]"
+  },
+  {
+    "objectID": "publications.html#journal",
+    "href": "publications.html#journal",
+    "title": "",
+    "section": "Journal",
+    "text": "Journal\n\n\n[1]\n\nCostello M. A., Pascale M. P., Potter, K., Knoll, S. J., Bodolay, A., Kaur J., Du, R., Greenspan, L., Gray, C. A., McIntyre, J., & Schuster, R. M. (2025). Understanding Adolescent Mental Health Symptom Progression in School-Based Settings: The Substance Use and Risk Factors (SURF) Survey. School Psychology  [paper]\n\n\n\n\n[2]\n\nPachas, G. N., Reeder, H. T., Evins, A. E., Casottana, K., Borrego, M. M., Bodolay, A., Gray, C. A., Potter, K., W., Keuroghlian, A. S., & Schuster, R. M. (2025). Substance use, suicidal behaviors, and other mental health outcomes among youth with intersectional sexual and gender diverse identities. Journal of the American Academy of Child & Adolescent Psychiatry Open. In Press.  [paper]\n\n\n\n\n[3]\n\nLiu, J., Knoll, S. J., Pascale, M. P., Gray, C. A., Bodolay, A., Potter, K. W., Gilman, J., Eden Evins, A., & Schuster, R. M. (2024). Intention to quit or reduce e-cigarettes, cannabis,and their co-use among a school-based sample of adolescents. Addictive Behaviors, 157, 108101  [paper]\n\n\n\n\n[4]\n\nGray, C. A., Iroegbulem, V., Deming, B., Butler, R., Howell, D., Pascale, M. P., Bodolay, A., Potter, K., Turncliff, A., Lynch, S., Whittaker, J., Ward, J., Maximus, D., Pachas, G. N., & Schuster, R. M. (2023). Pragmatic Clinical Effectiveness Trial of a Novel Alternative to Punishment for School-Based Substance Use Infractions: Study Protocol for the iDECIDE Curriculum. Frontiers in Public Health, 11, 1203558 [paper]"
+  }
+]
