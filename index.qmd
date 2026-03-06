@@ -2,7 +2,7 @@
 title: ""
 ---
 
-## About me
+## About mee
 
 I am currently a Research Assistant applying data science and machine learning to process and analyze magnetic resonance imaging (MRI) of pediatric brains at the [Computational Imaging of Brain Organization Research Group](https://www.ciborglab.com/) at Children's Hospital Los Angeles.
 
