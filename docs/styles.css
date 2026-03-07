@@ -46,8 +46,17 @@
   font-size: 14px;
 }
 
-/* 3rd item of side bar and subsequent (social) */
-.sidebar .sidebar-item:nth-child(+n+3):hover {
+/* 4th item of side bar and subsequent (social) */
+.sidebar .sidebar-item:nth-child(+n+3):nth-child(-n+7):hover {
+  transform: scale(1.05);
+}
+
+.sidebar .sidebar-item:nth-child(8) {
+  font-weight: bold; /* Optional: customize weight */
+  margin-top: 20px;
+  font-size: 16px;
+}
+.sidebar .sidebar-item:nth-child(9):hover {
   transform: scale(1.05);
 }
 

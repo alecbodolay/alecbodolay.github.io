@@ -1,7 +1,10 @@
 project:
   type: website
   output-dir: _site
-
+  
+date-modified: last-modified
+date-format: long
+    
 website:
   navbar:
     left:
@@ -18,23 +21,30 @@ website:
     logo: bio-pic.jpg
     contents:
       - text: "Alec Bodolay"
-      - text: "CHLA | USC"
-      - icon: envelope-fill
-        text: "&nbsp; Email"
-        href: "mailto:bodolay@usc.edu"
-      - text: "{{< ai google-scholar >}} &thinsp; &nbsp; Google Scholar"
+      - text: "USC | CHLA"
+        
+      - text: '<i class="ai  ai-google-scholar"></i> &nbsp; &nbsp; Google Scholar'
         href: https://scholar.google.fr/citations?user=bodolayalec
-      - text: "{{< ai researchgate >}} &thinsp; &nbsp; Research Gate"
+        
+      - text: '<i class="ai  ai-researchgate"></i> &nbsp; &nbsp; ReserachGate'
         href: https://www.researchgate.net/profile/Alec-Bodolay
+        
       - icon: github
-        text: "&nbsp; GitHub"
+        text: "&nbsp;&nbsp;  GitHub"
         href: https://github.com/alecbodolay/
+        
       - icon: linkedin
+        text: "&nbsp;&nbsp;  LinkedIn"
         href: https://www.linkedin.com/in/alecbodolay/
-        text: "&nbsp; LinkedIn"
-      - text: "{{< ai orcid >}} &nbsp; ORCID"
+        
+      - text: '<i class="ai ai-orcid"></i>&nbsp; &nbsp; ORCID'
         href: https://orcid.org/0009-0006-9030-4711
-  page-footer: "Last Updated: {{< meta date >}} <br/> Copyright © 2023 - 2025, Alec Bodolay. All rights reserved "
+        
+      - text: "Contact:"
+      - icon: envelope-fill
+        text: "&nbsp;&nbsp; Email"
+        href: "mailto:bodolay@usc.edu"
+  page-footer: "Last Updated: {{< meta date-modified >}} <br/> Copyright © 2023 - 2026, Alec Bodolay. All rights reserved "
 
 
 format:
@@ -43,12 +53,13 @@ format:
     css: styles.css
     toc: true
     fontawesome: true
-    code-tools: false
+    title-block-style: none
+    include-in-header:
+      - text: "{{< ai google-scholar >}}"
     grid:
       sidebar-width: 450px
       body-width: 800px;
       margin-width: 150px
  
-date: last-modified
 editor: visual
 

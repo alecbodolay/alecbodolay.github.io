@@ -1,8 +1,9 @@
 ---
 title: ""
+date: ""
 ---
 
-## Experiencee
+## Experience
 
 ::::: columns
 ::: {.column width="9%"}

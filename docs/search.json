@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "I am currently a Research Assistant applying data science and machine learning to process and analyze magnetic resonance imaging (MRI) of pediatric brains at the Computational Imaging of Brain Organization Research Group at Children’s Hospital Los Angeles.\nI graduated in the Neuroimaging and Informatics Master’s Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging."
+    "text": "I am currently a Resource Employee at USC’s Neuroimaging and Informatics Institute and Research Assistant at Children’s Hospital Los Angeles working on applying data science and engineering to process, manage, and analyze MRI (magnetic resonance imaging) brain data.\nI graduated in the Neuroimaging and Informatics Master’s Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "",
-    "section": "",
-    "text": "I am currently a Research Assistant applying data science and machine learning to process and analyze magnetic resonance imaging (MRI) of pediatric brains at the Computational Imaging of Brain Organization Research Group at Children’s Hospital Los Angeles.\nI graduated in the Neuroimaging and Informatics Master’s Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging."
+    "section": "About me",
+    "text": "About me\nI am currently a Resource Employee at USC’s Neuroimaging and Informatics Institute and Research Assistant at Children’s Hospital Los Angeles working on applying data science and engineering to process, manage, and analyze MRI (magnetic resonance imaging) brain data.\nI graduated in the Neuroimaging and Informatics Master’s Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging."
   },
   {
     "objectID": "index.html#professional-background",
     "href": "index.html#professional-background",
     "title": "",
     "section": "Professional Background",
-    "text": "Professional Background\n\nData Science & Computational Analytics: Used statistical methods and programming to frame research questions, evaluate experiments, analyze data, and support data-driven decisions on neuroimaging and psychiatric clinical studies.\nData Engineering & Infrastructure: End-to-end data pipeline design, implementation, and maintenance; Querying databases and harmonizing datasets to support downstream analyses.\nData Management: Managed clinical research studies and multi-site neuroimaging projects through coordinating data intake, improving data infrastructure, assessing data quality, and leading data review meetings.\nProgramming & Tools: R (3+ years; tidyverse, targets, Shiny), Unix Shell (3+ years; Bash), Git (3+ years), Python (2+ years; pandas, nibabel, scikit-learn), MATLAB (1 year).\nNeuroimaging: Magnetic Resonance (MR) image processing and analysis using Python’s package nibabel, FSL and SPM; MR image quality assurance; Supporting the development of deep-learning based segmentation models.\nNeuroscience: Graduate and undergraduate studies.\n\nI began building my foundation in data science through my role as a programmer at the Center for Addiction Medicine at Massachusetts General Hospital (MGH) from 2022 through 2024, under the supervision of Randi M. Shuster, PhD and Anne Eden Evins, MD, MPH, co-authoring 4 papers on adolescent substance use and on mental health."
+    "text": "Professional Background\n\nData Science: Statistical programming; Interactive dashboard design; Support of data-driven decisions on neuroimaging and psychiatric clinical studies.\nData Engineering: End-to-end data pipeline design, implementation, and maintenance; Pipeline automation; Querying databases and harmonizing datasets to support downstream analyses.\nData Management: Managed clinical research studies and multi-site neuroimaging projects through coordinating data intake, improving data infrastructure, assessing data quality, and leading data review meetings.\nNeuroimaging: Magnetic Resonance (MR) image processing and analysis using Python’s package nibabel, FSL and SPM; MR image quality assurance; Supporting the development of deep-learning based segmentation models.\n\n\n\n\nProgramming & Tools:\n\nR (3+ years; tidyverse, targets, Shiny)\nUnix Shell (3+ years; Bash)\nPython (2+ years; pandas, nibabel, scikit-learn),\nMATLAB (1 year).\n\n\n\n\n\n\nGit (3+ years)\nITKsnap\nFSL\n\n\n\n\nI began building my foundation in data science through my role as a programmer at the Center for Addiction Medicine at Massachusetts General Hospital (MGH) from 2022 through 2024, under the supervision of Randi M. Shuster, PhD and Anne Eden Evins, MD, MPH, co-authoring 4 papers on adolescent substance use and on mental health."
   },
   {
     "objectID": "education.html",
@@ -31,8 +31,8 @@
     "objectID": "education.html#education",
     "href": "education.html#education",
     "title": "",
-    "section": "",
-    "text": "August 2024 - May 2025 University of Southern California  M.S. in Neuroimaging and Informatics\n\n\n\n\n\n\nJanuary 2021 - September 2022 University of California Santa Barbara  B.S. in Behavioral Neuroscience\n\n\n\n\n\n\nAugust 2017 - June 2020Santa Monica College  A.A. in Biological Sciences"
+    "section": "Education",
+    "text": "Education\n\n\n\n\nAugust 2024 - May 2025 University of Southern California  M.S. in Neuroimaging and Informatics\n\n\n\n\n\n\nJanuary 2021 - September 2022 University of California Santa Barbara  B.S. in Behavioral Neuroscience\n\n\n\n\n\n\nAugust 2017 - June 2020Santa Monica College  A.A. in Biological Sciences"
   },
   {
     "objectID": "education.html#graduate-courses",
@@ -52,8 +52,8 @@
     "objectID": "experience.html#experience",
     "href": "experience.html#experience",
     "title": "",
-    "section": "",
-    "text": "Jun 2025 - Present USC’s Neuroimaging and Informatics Institute, Los Angeles CA  Resource Employee, Laboratory of NeuroImaging \n\nBuilt and maintained a secure Linux-based research server\nDeployed and managed an imaging informatics platform (XNAT)\n\n\n\n\n\n\n\n\nJun 2025 - Present Children’s Hospital Los Angeles, Los Angeles CA  Research Assistant, Computational Imaging of Brain Organization Research Group \n\nProcessing Magnetic Resonance (MR) images of infant brains (ages 0-18).\nAutomated neuroimaging preprocessing pipelines using containerized software.\nOptimized data infrastructure in High-Performance Computing environment.\nImplemented data quality checks, supporting the development and validation of image segmentation models\n\n\n\n\n\n\n\n\nOct 2022 - Jul 2024 Massachusetts General Hospital, Boston MA  Programmer, Center for Addiction Medicine \n\nEnd-to-end data pipeline design and implementation (version-controlled with Git) to ingest, clean, and analyze incoming clinical trial data.\nDeveloped and automated applications (in R Shiny) to monitor data ingestion, detect anomlaies, improve data cleaning and visualization.\nCompiled and harmonized longitudinal datasets to ensure consistency across all timepoints and enable cross-cohort comparisons.\nCollaborated with the Biostatistician and Principal Investigator on statistical analyses for primary, exploratory, and ad-hoc analyses.\nLed recurring data review meetings to identify systematic data issues and implement improvements in data processing and analysis workflows.\nManaged and reviewed clinical trial databses through programming and Electronic Data Capture platforms (REDCap) with an oversight on data quality.\nTrained and mentored programmers on code reproducibility, data querying and manipulation, and best research practices.\n\n\n\n\n\n\n\n\nBar-Ilan University, Tel-Aviv - Israel Aug 2020 - Dec 2020  Research Intern, Developmental Neuropsychology Lab \n\nData processing, cleaning, and analysis for eye-tracking data to measure EEG and gaze coordination patterns using repeated measures ANOVA."
+    "section": "Experience",
+    "text": "Experience\n\n\n\n\nJun 2025 - Present USC’s Neuroimaging and Informatics Institute, Los Angeles CA  Resource Employee, Laboratory of NeuroImaging \n\nBuilt and maintained a secure Linux-based research server\nDeployed and managed an imaging informatics platform (XNAT)\n\n\n\n\n\n\n\n\nJun 2025 - Present Children’s Hospital Los Angeles, Los Angeles CA  Research Assistant, Computational Imaging of Brain Organization Research Group \n\nProcessing Magnetic Resonance (MR) images of infant brains (ages 0-18).\nAutomated neuroimaging preprocessing pipelines using containerized software.\nOptimized data infrastructure in High-Performance Computing environment.\nImplemented data quality checks, supporting the development and validation of image segmentation models\n\n\n\n\n\n\n\n\nOct 2022 - Jul 2024 Massachusetts General Hospital, Boston MA  Programmer, Center for Addiction Medicine \n\nEnd-to-end data pipeline design and implementation (version-controlled with Git) to ingest, clean, and analyze incoming clinical trial data.\nDeveloped and automated applications (in R Shiny) to monitor data ingestion, detect anomlaies, improve data cleaning and visualization.\nCompiled and harmonized longitudinal datasets to ensure consistency across all timepoints and enable cross-cohort comparisons.\nCollaborated with the Biostatistician and Principal Investigator on statistical analyses for primary, exploratory, and ad-hoc analyses.\nLed recurring data review meetings to identify systematic data issues and implement improvements in data processing and analysis workflows.\nManaged and reviewed clinical trial databses through programming and Electronic Data Capture platforms (REDCap) with an oversight on data quality.\nTrained and mentored programmers on code reproducibility, data querying and manipulation, and best research practices.\n\n\n\n\n\n\n\n\nBar-Ilan University, Tel-Aviv - Israel Aug 2020 - Dec 2020  Research Intern, Developmental Neuropsychology Lab \n\nData processing, cleaning, and analysis for eye-tracking data to measure EEG and gaze coordination patterns using repeated measures ANOVA."
   },
   {
     "objectID": "publications.html",
@@ -66,8 +66,8 @@
     "objectID": "publications.html#conference",
     "href": "publications.html#conference",
     "title": "",
-    "section": "",
-    "text": "[1]\n\nCostello, M., Bodolay, A., Gray, C., Du, R., Potter, K., & Schuster, R. (2025). Emotional Reactivity is a Transdiagnostic Risk Factor for Substance Use Initiation in Middle and High School Students. Drug and Alcohol Dependence, 267, 111623  [abstract]\n\n\n\n\n[2]\n\nSchuster, R., Cather, C., Pachas, G., Iroegbulem, V., Dufour, J. R., Casottana, K. D., Zhao, J., Potter, K., Bodolay, A., Evins, A. E. (2025). Characteristics of Adolescents Presenting for a Pharmacotherapy Vaping Cessation Trial who Never Smoked Tobacco Regularly. Drug and Alcohol Dependence, 267, 111982  [abstract]"
+    "section": "Conference",
+    "text": "Conference\n\n\n[1]\n\nCostello, M., Bodolay, A., Gray, C., Du, R., Potter, K., & Schuster, R. (2025). Emotional Reactivity is a Transdiagnostic Risk Factor for Substance Use Initiation in Middle and High School Students. Drug and Alcohol Dependence, 267, 111623  [abstract]\n\n\n\n\n[2]\n\nSchuster, R., Cather, C., Pachas, G., Iroegbulem, V., Dufour, J. R., Casottana, K. D., Zhao, J., Potter, K., Bodolay, A., Evins, A. E. (2025). Characteristics of Adolescents Presenting for a Pharmacotherapy Vaping Cessation Trial who Never Smoked Tobacco Regularly. Drug and Alcohol Dependence, 267, 111982  [abstract]"
   },
   {
     "objectID": "publications.html#journal",
@@ -80,8 +80,8 @@
     "objectID": "index.html#about-mee",
     "href": "index.html#about-mee",
     "title": "",
-    "section": "",
-    "text": "I am currently a Research Assistant applying data science and machine learning to process and analyze magnetic resonance imaging (MRI) of pediatric brains at the Computational Imaging of Brain Organization Research Group at Children’s Hospital Los Angeles.\nI graduated in the Neuroimaging and Informatics Master’s Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging."
+    "section": "About mee",
+    "text": "About mee\nI am currently a Research Assistant applying data science and machine learning to process and analyze magnetic resonance imaging (MRI) of pediatric brains at the Computational Imaging of Brain Organization Research Group at Children’s Hospital Los Angeles.\nI graduated in the Neuroimaging and Informatics Master’s Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging."
   },
   {
     "objectID": "publications.html#conferencee",
@@ -96,5 +96,19 @@
     "title": "",
     "section": "",
     "text": "Jun 2025 - Present USC’s Neuroimaging and Informatics Institute, Los Angeles CA  Resource Employee, Laboratory of NeuroImaging \n\nBuilt and maintained a secure Linux-based research server\nDeployed and managed an imaging informatics platform (XNAT)\n\n\n\n\n\n\n\n\nJun 2025 - Present Children’s Hospital Los Angeles, Los Angeles CA  Research Assistant, Computational Imaging of Brain Organization Research Group \n\nProcessing Magnetic Resonance (MR) images of infant brains (ages 0-18).\nAutomated neuroimaging preprocessing pipelines using containerized software.\nOptimized data infrastructure in High-Performance Computing environment.\nImplemented data quality checks, supporting the development and validation of image segmentation models\n\n\n\n\n\n\n\n\nOct 2022 - Jul 2024 Massachusetts General Hospital, Boston MA  Programmer, Center for Addiction Medicine \n\nEnd-to-end data pipeline design and implementation (version-controlled with Git) to ingest, clean, and analyze incoming clinical trial data.\nDeveloped and automated applications (in R Shiny) to monitor data ingestion, detect anomlaies, improve data cleaning and visualization.\nCompiled and harmonized longitudinal datasets to ensure consistency across all timepoints and enable cross-cohort comparisons.\nCollaborated with the Biostatistician and Principal Investigator on statistical analyses for primary, exploratory, and ad-hoc analyses.\nLed recurring data review meetings to identify systematic data issues and implement improvements in data processing and analysis workflows.\nManaged and reviewed clinical trial databses through programming and Electronic Data Capture platforms (REDCap) with an oversight on data quality.\nTrained and mentored programmers on code reproducibility, data querying and manipulation, and best research practices.\n\n\n\n\n\n\n\n\nBar-Ilan University, Tel-Aviv - Israel Aug 2020 - Dec 2020  Research Intern, Developmental Neuropsychology Lab \n\nData processing, cleaning, and analysis for eye-tracking data to measure EEG and gaze coordination patterns using repeated measures ANOVA."
+  },
+  {
+    "objectID": "index.html#about-meee",
+    "href": "index.html#about-meee",
+    "title": "",
+    "section": "",
+    "text": "I am currently a Research Assistant applying data science and machine learning to process and analyze magnetic resonance imaging (MRI) of pediatric brains at the Computational Imaging of Brain Organization Research Group at Children’s Hospital Los Angeles.\nI graduated in the Neuroimaging and Informatics Master’s Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging."
+  },
+  {
+    "objectID": "index.html#professional-background-1",
+    "href": "index.html#professional-background-1",
+    "title": "",
+    "section": "Professional Background",
+    "text": "Professional Background\n\nProgramming & Tools: R (3+ years; tidyverse, targets, Shiny), Unix Shell (3+ years; Bash), Git (3+ years), Python (2+ years; pandas, nibabel, scikit-learn), MATLAB (1 year).\n\nI began building my foundation in data science through my role as a programmer at the Center for Addiction Medicine at Massachusetts General Hospital (MGH) from 2022 through 2024, under the supervision of Randi M. Shuster, PhD and Anne Eden Evins, MD, MPH, co-authoring 4 papers on adolescent substance use and on mental health."
   }
 ]
