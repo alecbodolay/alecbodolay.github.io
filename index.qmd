@@ -6,14 +6,14 @@ title: ""
 
 I am currently a Resource Employee at USC's Neuroimaging and Informatics Institute and Research Assistant at Children's Hospital Los Angeles working on applying data science and engineering to process, manage, and analyze MRI (magnetic resonance imaging) brain data.
 
-I graduated in the [Neuroimaging and Informatics](https://niin.usc.edu/about#program) Master's Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging.
+I graduated in the [Neuroimaging and Informatics](https://niin.usc.edu/about#program) Master's Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging {{< fa brain >}}.
 
 ## Professional Background
 
--   **Data Science:** Statistical programming; Interactive dashboard design; Support of data-driven decisions on neuroimaging and psychiatric clinical studies.
--   **Data Engineering:** End-to-end data pipeline design, implementation, and maintenance; Pipeline automation; Querying databases and harmonizing datasets to support downstream analyses.
--   **Data Management:** Managed clinical research studies and multi-site neuroimaging projects through coordinating data intake, improving data infrastructure, assessing data quality, and leading data review meetings.
--   **Neuroimaging:** Magnetic Resonance (MR) image processing and analysis using Python's package `nibabel`, `FSL` and `SPM`; MR image quality assurance; Supporting the development of deep-learning based segmentation models.
+-   {{< fa chart-line >}} \ &nbsp; **Data Science:** Statistical programming; Interactive dashboard desing.
+-   {{< fa gears >}} &nbsp; **Data Engineering:** End-to-end data pipeline design and automation; Querying databases; Harmonizing datasets.
+-   {{< fa cubes >}} \ &nbsp; **Data Management:** Data centralization and infrastructure optimization; High-performance cumping clusters;
+-   {{< fa brain >}} \ &nbsp; **Neuroimaging:** Magnetic Resonance (MR) image processing and analysis of the human brain using `XNAT`,`FlyWheel`,`Horus`, `ITK-Snap`,`FSL`, `SPM`, and Python's package `nibabel`
 
 ::::: columns
 ::: {.column width="45%"}

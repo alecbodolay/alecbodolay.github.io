@@ -46,18 +46,15 @@
   font-size: 14px;
 }
 
-/* 4th item of side bar and subsequent (social) */
-.sidebar .sidebar-item:nth-child(+n+3):nth-child(-n+7):hover {
+/* 3rd item of side bar and subsequent (social) */
+.sidebar .sidebar-item:nth-child(+n+3):nth-child(7):hover {
   transform: scale(1.05);
 }
-
+/* second item of side bar (affiliation) */
 .sidebar .sidebar-item:nth-child(8) {
-  font-weight: bold; /* Optional: customize weight */
   margin-top: 20px;
   font-size: 16px;
-}
-.sidebar .sidebar-item:nth-child(9):hover {
-  transform: scale(1.05);
+  font-weight: bold;
 }
 
 
