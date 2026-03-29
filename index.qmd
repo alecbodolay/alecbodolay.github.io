@@ -10,10 +10,10 @@ I graduated in the [Neuroimaging and Informatics](https://niin.usc.edu/about#pro
 
 ## Professional Background
 
--   {{< fa chart-line >}} \ &nbsp; **Data Science:** Statistical programming; Interactive dashboard desing.
--   {{< fa gears >}} &nbsp; **Data Engineering:** End-to-end data pipeline design and automation; Querying databases; Harmonizing datasets.
--   {{< fa cubes >}} \ &nbsp; **Data Management:** Data centralization and infrastructure optimization; High-performance cumping clusters;
--   {{< fa brain >}} \ &nbsp; **Neuroimaging:** Magnetic Resonance (MR) image processing and analysis of the human brain using `XNAT`,`FlyWheel`,`Horus`, `ITK-Snap`,`FSL`, `SPM`, and Python's package `nibabel`
+-   {{< fa chart-line >}} \ \ \ **Data Science:** Statistical programming; Interactive dashboard design.
+-   {{< fa gears >}} \ \ **Data Engineering:** End-to-end data pipeline design and automation; Querying databases; Harmonizing datasets.
+-   {{< fa cubes >}} \ \ **Data Management:** Data centralization and infrastructure optimization; High-performance cumping clusters;
+-   {{< fa brain >}} \ \ \ **Neuroimaging:** Magnetic Resonance (MR) image processing and analysis of the human brain.
 
 ::::: columns
 ::: {.column width="45%"}
@@ -24,11 +24,19 @@ I graduated in the [Neuroimaging and Informatics](https://niin.usc.edu/about#pro
 - MATLAB (1 year).
 :::
 
-::: {.column width="50%"}
+::: {.column width="20%"}
 #### 
 - Git (3+ years)
 - ITKsnap
 - FSL
+- SPM
+:::
+
+::: {.column width="20%"}
+#### 
+- XNAT
+- FlyWheel
+- Horus
 :::
 :::::
 
