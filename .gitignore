@@ -1,10 +1,7 @@
 .Rproj.user
-.Rhistory
-.RData
 .Ruserdata
 .DS_Store
+.Rproj
 
-mysite.Rproj
 _site
 
-/.quarto/
