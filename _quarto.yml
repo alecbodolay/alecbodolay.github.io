@@ -51,7 +51,7 @@ website:
 format:
   html:
     theme: [cosmo, custom.scss]
-    css: styles.css
+    css: docs/styles.css
     toc: true
     fontawesome: true
     title-block-style: none
