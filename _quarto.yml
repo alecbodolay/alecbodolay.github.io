@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: render
+  output-dir: _site
   
 date-modified: last-modified
 date-format: long
