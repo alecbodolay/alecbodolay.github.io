@@ -18,7 +18,7 @@ website:
         text: Education
   sidebar:
     style: docked
-    logo: bio-pic.jpg
+    logo: images/bio-pic.jpg
     contents:
       - text: "Alec Bodolay"
       - text: "USC | CHLA"
@@ -51,7 +51,7 @@ website:
 format:
   html:
     theme: [cosmo, custom.scss]
-    css: docs/styles.css
+    css: styles.css
     toc: true
     fontawesome: true
     title-block-style: none

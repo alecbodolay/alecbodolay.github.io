@@ -5,35 +5,35 @@ date: ""
 
 ## Education
 
-::::: columns
+::: columns
 ::: {.column width="9%"}
-![](/images/usc-logo.png){.absolute width="55"}
+![](images/usc-logo.png){.absolute width="55"}
 :::
 
 ::: {.column width="91%"}
 [`August 2024 - May 2025`]{style="float: right;"} [**University of Southern California**](https://keck.usc.edu/) <br/> M.S. in Neuroimaging and Informatics
 :::
-:::::
+:::
 
-::::: columns
+::: columns
 ::: {.column width="9%"}
-![](/images/UCSB_seal.png){.absolute width="55"}
+![](images/UCSB_seal.png){.absolute width="55"}
 :::
 
 ::: {.column width="91%"}
 [`January 2021 - September 2022`]{style="float: right;"} [**University of California Santa Barbara**](https://www.ucsb.edu/) <br/> B.S. in Behavioral Neuroscience
 :::
-:::::
+:::
 
-::::: columns
+::: columns
 ::: {.column width="9%"}
-![](/images/SMC_seal.png){.absolute width="55"}
+![](images/SMC_seal.png){.absolute width="55"}
 :::
 
 ::: {.column width="91%"}
 [`August 2017 - June 2020`]{style="float: right;"}[**Santa Monica College**](https://www.smc.edu/) <br/> A.A. in Biological Sciences
 :::
-:::::
+:::
 
 ## Graduate Courses
 
