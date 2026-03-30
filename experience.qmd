@@ -11,10 +11,12 @@ date: ""
 :::
 
 ::: {.column width="91%"}
-`Jun 2025 - Present`{style="float: right;"} **USC's Neuroimaging and Informatics Institute, Los Angeles CA** <br/> Resource Employee, Laboratory of NeuroImaging <br/>
+`Jun 2025 - Present`{style="float: right; font-size: 12px;"} **USC's Neuroimaging and Informatics Institute, Los Angeles CA** <br/> Resource Employee, *Laboratory of NeuroImaging* <br/>
 
--   Built and maintained a secure Linux-based research server
--   Deployed and managed an imaging informatics platform (XNAT)
+- Built and maintained a secure research server on a Linux machine (Ubuntu distribution);
+- Deployed and managed neuroimaging informatics platform (XNAT) instance;
+- Centralized multi-site MRI data.
+
 :::
 :::
 
@@ -26,12 +28,12 @@ date: ""
 :::
 
 ::: {.column width="91%"}
-`Jun 2025 - Present`{style="float: right;"} **Children's Hospital Los Angeles, Los Angeles CA** <br/> Research Assistant, Computational Imaging of Brain Organization Research Group <br/>
+`Jun 2025 - Present`{style="float: right; font-size: 12px;"} **Children's Hospital Los Angeles, Los Angeles CA** 
+<br/> Research Assistant, *Computational Imaging of Brain Organization Research Group*
 
--   Processing Magnetic Resonance (MR) images of infant brains (ages 0-18).
--   Automated neuroimaging preprocessing pipelines using containerized software.
--   Optimized data infrastructure in High-Performance Computing environment.
--   Implemented data quality checks, supporting the development and validation of image segmentation models
+-   Developed containerized tools (Docker-based) to automate preprocessing pipelines.
+-   Processed magnetic resonance imaging (MRI) brain data, generating clean datasets to support machine learning and statistical analyses
+-   Implemented data quality assurance methods to improve reliability of downstream analysis and reporting.
 :::
 :::
 
@@ -43,14 +45,14 @@ date: ""
 :::
 
 ::: {.column width="91%"}
-`Oct 2022 - Jul 2024`{style="float: right;"} **Massachusetts General Hospital, Boston MA** <br/> Programmer, Center for Addiction Medicine <br/>
+`Oct 2022 - Jul 2024`{style="float: right; font-size: 12px;"} **Massachusetts General Hospital, Boston MA** <br/> Programmer, *Center for Addiction Medicine* <br/>
 
 -   End-to-end data pipeline design and implementation (version-controlled with Git) to ingest, clean, and analyze incoming clinical trial data.
--   Developed and automated applications (in R Shiny) to monitor data ingestion, detect anomlaies, improve data cleaning and visualization.
+-   Developed automated dashboards (in R Shiny) to monitor data ingestion, detect anomlaies, improve data cleaning and visualization.
 -   Compiled and harmonized longitudinal datasets to ensure consistency across all timepoints and enable cross-cohort comparisons.
 -   Collaborated with the Biostatistician and Principal Investigator on statistical analyses for primary, exploratory, and ad-hoc analyses.
--   Led recurring data review meetings to identify systematic data issues and implement improvements in data processing and analysis workflows.
--   Managed and reviewed clinical trial databses through programming and Electronic Data Capture platforms (REDCap) with an oversight on data quality.
+-   Led recurring data review meetings to identify systematic data issues and implement improvements to optimize data analysis workflows.
+-   Managed and reviewed clinical trial databases through programming and Electronic Data Capture platforms (REDCap) with an oversight on data quality.
 -   Trained and mentored programmers on code reproducibility, data querying and manipulation, and best research practices.
 :::
 :::
@@ -59,11 +61,11 @@ date: ""
 
 ::: columns
 ::: {.column width="9%"}
-![](docs/images/barilan_logo.png){.absolute width="55"}
+![](images/barilan_logo.png){.absolute width="55"}
 :::
 
 ::: {.column width="91%"}
-**Bar-Ilan University, Tel-Aviv - Israel** `Aug 2020 - Dec 2020`{style="float: right;"} <br/> Research Intern, Developmental Neuropsychology Lab <br/>
+**Bar-Ilan University, Tel-Aviv - Israel** `Aug 2020 - Dec 2020`{style="float: right;"} <br/> Research Intern, *Developmental Neuropsychology Lab* <br/>
 
 -   Data processing, cleaning, and analysis for eye-tracking data to measure EEG and gaze coordination patterns using repeated measures ANOVA.
 :::

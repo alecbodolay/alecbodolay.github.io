@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: render
   
 date-modified: last-modified
 date-format: long
@@ -20,22 +20,23 @@ website:
     style: docked
     logo: images/bio-pic.jpg
     contents:
-      - text: "Alec Bodolay"
+      - text: 'Alec Bodolay'
       - text: "USC | CHLA"
+      - text: "{{< ai academia >}}" #phantom icon (so below calls work)
+      
+      - icon: github
+        text: "&nbsp;&nbsp; GitHub"
+        href: https://github.com/alecbodolay/
+    
+      - icon: linkedin
+        text: "&nbsp;&nbsp; LinkedIn"
+        href: https://www.linkedin.com/in/alecbodolay/
         
-      - text: '<i class="ai ai-google-scholar"></i>&nbsp; &nbsp; Google Scholar'
+      - text: '<i class="ai ai-google-scholar"></i>&nbsp; \ &nbsp; Google Scholar'
         href: https://scholar.google.fr/citations?user=bodolayalec
         
-      - text: "{{< ai researchgate >}} &nbsp; &nbsp; ResearchGate"
+      - text: '<i class="ai ai-researchgate"></i>&nbsp; \ &nbsp; ResearchGate'
         href: https://www.researchgate.net/profile/Alec-Bodolay
-        
-      - icon: github
-        text: "&nbsp;&nbsp;  GitHub"
-        href: https://github.com/alecbodolay/
-        
-      - icon: linkedin
-        text: "&nbsp;&nbsp;  LinkedIn"
-        href: https://www.linkedin.com/in/alecbodolay/
         
       - text: '<i class="ai ai-orcid"></i>&nbsp; &nbsp; ORCID'
         href: https://orcid.org/0009-0006-9030-4711
@@ -56,9 +57,8 @@ format:
     fontawesome: true
     title-block-style: none
     grid:
-      sidebar-width: 450px
-      body-width: 800px;
-      margin-width: 150px
+      sidebar-width: 600px
+      body-width: 650px;
  
-editor: visual
+editor: source
 
