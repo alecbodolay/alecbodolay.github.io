@@ -23,7 +23,7 @@ website:
       - text: "Alec Bodolay"
       - text: "USC | CHLA"
         
-      - text: "{{< ai google-scholar >}} &nbsp; &nbsp; Google Scholar"
+      - text: '<i class="ai ai-google-scholar"></i>&nbsp; &nbsp; Google Scholar'
         href: https://scholar.google.fr/citations?user=bodolayalec
         
       - text: "{{< ai researchgate >}} &nbsp; &nbsp; ResearchGate"
