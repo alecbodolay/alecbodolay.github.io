@@ -2,44 +2,14 @@
 title: ""
 ---
 
-#### **About me**
+### **About me**
 
-I am currently a Resource Employee at USC's Neuroimaging and Informatics Institute and Research Assistant at Children's Hospital Los Angeles working on applying data science and engineering to process, manage, and analyze MRI (magnetic resonance imaging) brain data.
+I am currently a Resource Employee at [USC's Neuroimaging and Informatics Institute](https://www.ini.usc.edu/) and Research Assistant at Children's Hospital Los Angeles working on applying data science and engineering to process, manage, and analyze MRI (magnetic resonance imaging) brain data.
 
-I graduated in the [Neuroimaging and Informatics](https://niin.usc.edu/about#program) Master's Program at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging {{< fa brain >}}.
-
-<br>
-
-#### **Professional Background**
-
-\ \ {{< fa chart-line size=normalsize >}} \ \ **Data Science:** Statistical programming; Interactive dashboard design;<br>
-\ \ {{< fa gears size=normalsize >}} \ **Data Engineering:** End-to-end data pipeline design & automation; Querying & Harmonizing datasets;<br>
-\ \ {{< fa server size=normalsize >}} \ \ **Data Management:** Data centralization; Infrastructure optimization; High-performance computing clusters;<br>
-\ \ {{< fa brain size=normalsize >}} \ \ **Neuroimaging:** Magnetic Resonance (MR) image processing and analysis of the human brain.
+I graduated in the Neuroimaging and Informatics Master's Program ([NIIN](https://niin.usc.edu/about#program)) at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging {{< fa brain >}}.
 
 <br>
 
-##### **Programming & Tools:**
-::: columns
-::: {.column width="40%"}
--   **R** (tidyverse, targets, Shiny)
--   **Python** (pandas, nibabel, scikit-learn)
--   **MATLAB**
-:::
 
-::: {.column width="35%"}
--   **Git** 
--   **Shell Scripting** (Bash, zsh)
--   **Docker**
-:::
-
-::: {.column width="20%"}
--   **XNAT**
--   **FlyWheel**
--   **FSL**
-:::
-:::
-
-<br>
 
 I began building my foundation in data science through my role as a programmer at the [Center for Addiction Medicine](https://www.mghaddictionmedicine.com) at Massachusetts General Hospital (MGH) from 2022 through 2024, under the supervision of Randi M. Shuster, PhD and Anne Eden Evins, MD, MPH, co-authoring [4 papers](/publications.qmd) on adolescent substance use and on mental health.

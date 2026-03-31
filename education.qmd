@@ -3,7 +3,7 @@ title: ""
 date: ""
 ---
 
-## Education
+### Education
 
 ::: columns
 ::: {.column width="9%"}
@@ -35,7 +35,7 @@ date: ""
 :::
 :::
 
-## Graduate Courses
+### Graduate Courses
 
 **Physics & Medical Imaging**: <br/> Neuroimaging Data Acquisition with MRI (NIIN530); <br/> Fundamentals of Human Neuroimaging (NIIN 510); <br/> Experimental Design for Neuroimaging (NIIN 520); <br/>
 

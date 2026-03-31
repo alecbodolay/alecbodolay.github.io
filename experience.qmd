@@ -3,7 +3,39 @@ title: ""
 date: ""
 ---
 
-## Experience
+### **Professional Background**
+
+\ \ {{< fa chart-line size=normalsize >}} \ \ **Data Science:** Statistical programming; Interactive dashboard design;<br>
+\ \ {{< fa gears size=normalsize >}} \ **Data Engineering:** End-to-end data pipeline design & automation; Querying & Harmonizing datasets;<br>
+\ \ {{< fa server size=normalsize >}} \ \ **Data Management:** Data centralization; Infrastructure optimization; High-performance computing clusters;<br>
+\ \ {{< fa brain size=normalsize >}} \ \ **Neuroimaging:** Magnetic Resonance (MR) image processing and analysis of the human brain.
+
+<br>
+
+### **Programming & Tools:**
+::: columns
+::: {.column width="40%"}
+-   **R** (tidyverse, targets, Shiny)
+-   **Python** (pandas, nibabel, scikit-learn)
+-   **MATLAB**
+:::
+
+::: {.column width="35%"}
+-   **Git** 
+-   **Shell Scripting** (Bash, zsh)
+-   **Docker**
+:::
+
+::: {.column width="20%"}
+-   **XNAT**
+-   **FlyWheel**
+-   **FSL**
+:::
+:::
+
+<br>
+
+### Experience
 
 ::: columns
 ::: {.column width="9%"}
