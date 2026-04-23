@@ -6,8 +6,8 @@ date: ""
 ### **Professional Background**
 
 \ \ {{< fa chart-line size=normalsize >}} \ \ **Data Science:** Statistical programming; Interactive dashboard design;<br>
-\ \ {{< fa gears size=normalsize >}} \ **Data Engineering:** End-to-end data pipeline design & automation; Querying & Harmonizing datasets;<br>
-\ \ {{< fa server size=normalsize >}} \ \ **Data Management:** Data centralization; Infrastructure optimization; High-performance computing clusters;<br>
+\ \ {{< fa gears size=normalsize >}} \ **Data Engineering:** End-to-end ETL data pipeline design & automation; Querying & Harmonizing datasets;<br>
+\ \ {{< fa server size=normalsize >}} \ \ **Data Management:** Data centralization; governance; high-performance computing clusters;<br>
 \ \ {{< fa brain size=normalsize >}} \ \ **Neuroimaging:** Magnetic Resonance (MR) image processing and analysis of the human brain.
 
 <br>

@@ -57,8 +57,8 @@ format:
     fontawesome: true
     title-block-style: none
     grid:
-      sidebar-width: 600px
-      body-width: 650px;
+      sidebar-width: 325px
+      body-width: 640px;
  
 editor: source
 
