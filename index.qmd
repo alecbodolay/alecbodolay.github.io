@@ -4,12 +4,10 @@ title: ""
 
 ### **About me**
 
-I am currently a Resource Employee at [USC's Neuroimaging and Informatics Institute](https://www.ini.usc.edu/) and Research Assistant at Children's Hospital Los Angeles working on applying data science and engineering to process, manage, and analyze MRI (magnetic resonance imaging) brain data.
+I am currently a Data Engineer (Resource Employee) at [USC's Neuroimaging and Informatics Institute](https://www.ini.usc.edu/) and a Research Assistant at Children's Hospital Los Angeles working on advancing brain imaging research {{< fa brain >}}.
 
-I graduated in the Neuroimaging and Informatics Master's Program ([NIIN](https://niin.usc.edu/about#program)) at the University of Southern California (USC) and I strive to contribute to advancing our understanding of the human brain through data science and biomedical imaging {{< fa brain >}}.
+I began building my foundation in data science and engineering through my role as a Programmer at the [Center for Addiction Medicine](https://www.mghaddictionmedicine.com) at Massachusetts General Hospital (MGH) from 2022 through 2024, under the supervision of Randi M. Shuster, PhD and Anne Eden Evins, MD, MPH, co-authoring [4 papers](/publications.qmd) on adolescent substance use and on mental health. In 2025, graduated in the Neuroimaging and Informatics Master's Program ([NIIN](https://niin.usc.edu/about#program)) at the University of Southern California.
 
 <br>
 
-
-
-I began building my foundation in data science through my role as a programmer at the [Center for Addiction Medicine](https://www.mghaddictionmedicine.com) at Massachusetts General Hospital (MGH) from 2022 through 2024, under the supervision of Randi M. Shuster, PhD and Anne Eden Evins, MD, MPH, co-authoring [4 papers](/publications.qmd) on adolescent substance use and on mental health.
+My ultimate goal is to contribute to advancing the applications of data science and engineering to improve patient care and people's lives.

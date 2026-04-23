@@ -35,7 +35,7 @@ date: ""
 
 <br>
 
-### Experience
+###  Experience
 
 ::: columns
 ::: {.column width="9%"}
@@ -43,11 +43,14 @@ date: ""
 :::
 
 ::: {.column width="91%"}
-`Jun 2025 - Present`{style="float: right; font-size: 12px;"} **USC's Neuroimaging and Informatics Institute, Los Angeles CA** <br/> Resource Employee, *Laboratory of NeuroImaging* <br/>
+`Jun 2025 - Present`{style="float: right; font-size: 12px;"} **USC's Neuroimaging and Informatics Institute, Los Angeles CA** <br/> Data Engineer (Resource Employee), *Laboratory of NeuroImaging* <br/>
 
-- Built and maintained a secure research server on a Linux machine (Ubuntu distribution);
-- Deployed and managed neuroimaging informatics platform (XNAT) instance;
-- Centralized multi-site MRI data.
+- Built and maintained a secure Linux-based research server to support multi-site neuroimaging data governance,
+querying, and analysis workflows.
+- Deployed and managed imaging informatics platform (XNAT) to centralize MRI data and establish
+infrastructure for multi-site neuroimaging research projects.
+- Collaborated with Principal Investigator to adapt infrastructure and data workflows to changing analytical and
+experimental requirements.
 
 :::
 :::
@@ -63,9 +66,12 @@ date: ""
 `Jun 2025 - Present`{style="float: right; font-size: 12px;"} **Children's Hospital Los Angeles, Los Angeles CA** 
 <br/> Research Assistant, *Computational Imaging of Brain Organization Research Group*
 
--   Developed containerized tools (Docker-based) to automate preprocessing pipelines.
--   Processed magnetic resonance imaging (MRI) brain data, generating clean datasets to support machine learning and statistical analyses
--   Implemented data quality assurance methods to improve reliability of downstream analysis and reporting.
+- Developed automated, containerized neuroimaging preprocessing pipelines (Docker-based), improving
+reproducibility and efficiency of analytical workflows.
+- Generated analysis-ready brain MRI datasets to support interpretation of neuroimaging signals and
+downstream machine learning and statistical analyses.
+- Implemented data quality control and validation procedures to ensure reliability of cleaned datasets and
+downstream analysis and reporting.
 :::
 :::
 
@@ -79,13 +85,18 @@ date: ""
 ::: {.column width="91%"}
 `Oct 2022 - Jul 2024`{style="float: right; font-size: 12px;"} **Massachusetts General Hospital, Boston MA** <br/> Programmer, *Center for Addiction Medicine* <br/>
 
--   End-to-end data pipeline design and implementation (version-controlled with Git) to ingest, clean, and analyze incoming clinical trial data.
--   Developed automated dashboards (in R Shiny) to monitor data ingestion, detect anomlaies, improve data cleaning and visualization.
--   Compiled and harmonized longitudinal datasets to ensure consistency across all timepoints and enable cross-cohort comparisons.
--   Collaborated with the Biostatistician and Principal Investigator on statistical analyses for primary, exploratory, and ad-hoc analyses.
--   Led recurring data review meetings to identify systematic data issues and implement improvements to optimize data analysis workflows.
--   Managed and reviewed clinical trial databases through programming and Electronic Data Capture platforms (REDCap) with an oversight on data quality.
--   Trained and mentored programmers on code reproducibility, data querying and manipulation, and best research practices.
+- Designed and maintained end-to-end ETL data pipelines (Git version-controlled) to ingest and process incoming
+clinical trial research data, generating clean datasets and statistical results.
+- Developed dashboards to monitor data ingestion, identify missing or inconsistent data, and improve
+visualization of summary statistics to support ongoing data reviews.
+- Led recurring data review sessions, identifying data trends, inconsistencies, or risks, and opportunities to
+improve data quality and workflow efficiency.
+- Collaborated with biostatisticians and investigators to support statistical analysis and interpretation of complex
+behavioral and biomedical data.
+- Managed EDC research databases and automated data extraction via API integration with a strong oversight on
+data quality.
+- Compiled and harmonized longitudinal datasets and metadata to enable cross-cohort analysis.
+- Trained programmers on code reproducibility, software engineering, and privacy regulations in research.
 :::
 :::
 
