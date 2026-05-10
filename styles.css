@@ -94,7 +94,7 @@ main a {
 /* 4th-8th item of side bar and subsequent (social) */
 .sidebar .sidebar-item:nth-child(n+4):nth-child(-n+8) .sidebar-link:hover,
 .sidebar .sidebar-item:nth-child(10) .sidebar-link:hover {
-  transform: scale(1.05);
+  transform: scale(1.1);
   color: #C78700 !important;
 }
 
