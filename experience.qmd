@@ -52,6 +52,8 @@ experimental requirements.
 :::
 :::
 
+<br>
+
 ::: columns
 ::: {.column width="9%"}
 ![](images/chla_logo.png){.absolute width="45"}
