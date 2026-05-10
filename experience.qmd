@@ -3,47 +3,44 @@ title: ""
 date: ""
 ---
 
-### **Professional Background**
+### Professional Background
 
-\ \ {{< fa chart-line size=normalsize >}} \ \ **Data Science:** Statistical programming; Interactive dashboard design;<br>
-\ \ {{< fa gears size=normalsize >}} \ **Data Engineering:** End-to-end ETL data pipeline design & automation; Querying & Harmonizing datasets;<br>
-\ \ {{< fa server size=normalsize >}} \ \ **Data Management:** Data centralization; governance; high-performance computing clusters;<br>
-\ \ {{< fa brain size=normalsize >}} \ \ **Neuroimaging:** Magnetic Resonance (MR) image processing and analysis of the human brain.
+{{< fa chart-line size=normalsize >}} \ \ ***Data Science:*** \ Statistical programming; Interactive dashboard design;<br>
+{{< fa gears size=normalsize >}} \ ***Data Engineering:*** \ End-to-end ETL data pipeline design & automation; Dataset transformations;<br>
+{{< fa server size=normalsize >}} \  ***Data Management:*** \ Data centralization and governance; High-performance computing clusters;<br>
+{{< fa brain size=normalsize >}} \ \ ***Neuroimaging:*** \ Magnetic Resonance image processing and analysis of the human brain.<br/>
 
-<br>
-
-### **Programming & Tools:**
+### Programming & Tools:
 ::: columns
-::: {.column width="40%"}
+::: {.column width="45%"}
 -   **R** (tidyverse, targets, Shiny)
 -   **Python** (pandas, nibabel, scikit-learn)
 -   **MATLAB**
 :::
 
 ::: {.column width="35%"}
--   **Git** 
 -   **Shell Scripting** (Bash, zsh)
+-   **Git** 
 -   **Docker**
 :::
 
-::: {.column width="20%"}
+::: {.column width="15%"}
 -   **XNAT**
 -   **FlyWheel**
 -   **FSL**
 :::
 :::
 
-<br>
-
 ###  Experience
 
 ::: columns
 ::: {.column width="9%"}
-![](images/keck_med_seal.png){.absolute width="55"}
+![](images/keck_med_seal.png){.absolute width="45"}
 :::
 
 ::: {.column width="91%"}
-`Jun 2025 - Present`{style="float: right; font-size: 12px;"} **USC's Neuroimaging and Informatics Institute, Los Angeles CA** <br/> Data Engineer (Resource Employee), *Laboratory of NeuroImaging* <br/>
+`Jun 2025 - Present`{style="float: right; 12px; margin-bottom: -10px;"} **University of Southern California, Los Angeles CA** <br/> 
+Data Engineer (Resource Employee), *Laboratory of NeuroImaging* <br/>
 
 - Built and maintained a secure Linux-based research server to support multi-site neuroimaging data governance,
 querying, and analysis workflows.
@@ -55,15 +52,13 @@ experimental requirements.
 :::
 :::
 
-<br>
-
 ::: columns
 ::: {.column width="9%"}
-![](images/chla_logo.png){.absolute width="55"}
+![](images/chla_logo.png){.absolute width="45"}
 :::
 
 ::: {.column width="91%"}
-`Jun 2025 - Present`{style="float: right; font-size: 12px;"} **Children's Hospital Los Angeles, Los Angeles CA** 
+**Children's Hospital Los Angeles, Los Angeles CA** `Jun 2025 - May 2026`{style="float: right; font-size: 12px; margin-bottom: -10px;"} 
 <br/> Research Assistant, *Computational Imaging of Brain Organization Research Group*
 
 - Developed automated, containerized neuroimaging preprocessing pipelines (Docker-based), improving
@@ -79,21 +74,22 @@ downstream analysis and reporting.
 
 ::: columns
 ::: {.column width="9%"}
-![](images/mgh_logo.png){.absolute width="55"}
+![](images/mgh_logo.png){.absolute width="45"}
 :::
 
 ::: {.column width="91%"}
-`Oct 2022 - Jul 2024`{style="float: right; font-size: 12px;"} **Massachusetts General Hospital, Boston MA** <br/> Programmer, *Center for Addiction Medicine* <br/>
+`Oct 2022 - Jul 2024`{style="float: right; font-size: 12px; margin-bottom: -10px;"} **Massachusetts General Hospital, Boston MA** <br/> 
+Programmer, *Center for Addiction Medicine* <br/>
 
-- Designed and maintained end-to-end ETL data pipelines (Git version-controlled) to ingest and process incoming
-clinical trial research data, generating clean datasets and statistical results.
+- Designed and maintained end-to-end ETL data pipelines (with Git) to ingest and process incoming
+clinical trial data, generating clean datasets and statistical results.
 - Developed dashboards to monitor data ingestion, identify missing or inconsistent data, and improve
 visualization of summary statistics to support ongoing data reviews.
 - Led recurring data review sessions, identifying data trends, inconsistencies, or risks, and opportunities to
 improve data quality and workflow efficiency.
 - Collaborated with biostatisticians and investigators to support statistical analysis and interpretation of complex
 behavioral and biomedical data.
-- Managed EDC research databases and automated data extraction via API integration with a strong oversight on
+- Managed EDC research databases (REDCap) and automated data extraction via API integration with a strong oversight on
 data quality.
 - Compiled and harmonized longitudinal datasets and metadata to enable cross-cohort analysis.
 - Trained programmers on code reproducibility, software engineering, and privacy regulations in research.
@@ -104,11 +100,12 @@ data quality.
 
 ::: columns
 ::: {.column width="9%"}
-![](images/barilan_logo.png){.absolute width="55"}
+![](images/barilan_logo.png){.absolute width="45"}
 :::
 
 ::: {.column width="91%"}
-**Bar-Ilan University, Tel-Aviv - Israel** `Aug 2020 - Dec 2020`{style="float: right;"} <br/> Research Intern, *Developmental Neuropsychology Lab* <br/>
+**Bar-Ilan University, Tel-Aviv - Israel** `Aug 2020 - Dec 2020`{style="float: right;"} <br/> 
+Research Intern, *Developmental Neuropsychology Lab* <br/>
 
 -   Data processing, cleaning, and analysis for eye-tracking data to measure EEG and gaze coordination patterns using repeated measures ANOVA.
 :::

@@ -2,12 +2,12 @@
 title: ""
 ---
 
-### **About me**
+### About me
 
-I am currently a Data Engineer (Resource Employee) at [USC's Neuroimaging and Informatics Institute](https://www.ini.usc.edu/) and a Research Assistant at Children's Hospital Los Angeles working on advancing brain imaging research {{< fa brain >}}.
+I am currently a Programmer Analyst at USC's [Laboratory of Neuroimaging](https://www.loni.usc.edu/) working on advancing brain imaging research {{< fa brain >}}.
 
-I began building my foundation in data science and engineering through my role as a Programmer at the [Center for Addiction Medicine](https://www.mghaddictionmedicine.com) at Massachusetts General Hospital (MGH) from 2022 through 2024, under the supervision of Randi M. Shuster, PhD and Anne Eden Evins, MD, MPH, co-authoring [4 papers](/publications.qmd) on adolescent substance use and on mental health. In 2025, graduated in the Neuroimaging and Informatics Master's Program ([NIIN](https://niin.usc.edu/about#program)) at the University of Southern California.
+I began building my foundation in data science and engineering in 2022 through my role as a Programmer at the [Center for Addiction Medicine](https://www.mghaddictionmedicine.com) at Massachusetts General Hospital, under the supervision of Randi M. Shuster, PhD and Anne Eden Evins, MD, MPH, co-authoring [4 papers](/publications.qmd) on adolescent mental health and substance use clinical trials. 
 
-<br>
+In 2025, upon graduating in the Neuroimaging and Informatics Master's Program ([NIIN](https://niin.usc.edu/about#program)) at the University of Southern California, I began working at Children's Hospital Los Angeles, under the supervision of Dr. Natasha Leporé, PhD, contributing to pediatric neuroimaging research. During this time, I also worked part-time at USC's Laboratory of Neuroimaging, under the supervision of Dr. Leon Aksman, PhD.
 
-My ultimate goal is to contribute to advancing the applications of data science and engineering to improve patient care and people's lives.
+Whatever the future may hold, my goal is to advance the applications of data science and engineering to improve patient care and our everyday life.

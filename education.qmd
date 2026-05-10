@@ -7,7 +7,7 @@ date: ""
 
 ::: columns
 ::: {.column width="9%"}
-![](images/usc-logo.png){.absolute width="55"}
+![](images/usc-logo.png){.absolute width="50"}
 :::
 
 ::: {.column width="91%"}
@@ -17,7 +17,7 @@ date: ""
 
 ::: columns
 ::: {.column width="9%"}
-![](images/UCSB_seal.png){.absolute width="55"}
+![](images/UCSB_seal.png){.absolute width="50"}
 :::
 
 ::: {.column width="91%"}
@@ -27,7 +27,7 @@ date: ""
 
 ::: columns
 ::: {.column width="9%"}
-![](images/SMC_seal.png){.absolute width="55"}
+![](images/SMC_seal.png){.absolute width="50"}
 :::
 
 ::: {.column width="91%"}

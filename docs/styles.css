@@ -2,21 +2,21 @@
 body {
   font-family: "Inter", sans-serif;
   line-height: 1.5;
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 400;
-  margin-left: 200px;
+  margin-left: 120px;
 }
 
 h3 {
+  font-size: 20px;
   border-bottom: 1px solid #C7C7C7;
   padding-bottom: 5px;
-  margin-bottom: 10px;
+  margin-bottom: 25px;
 }
 
 main ul {
   /*margin-top:-10px;*/
 }
-
 
 
 /* NAVIGATION BAR */
@@ -31,12 +31,7 @@ main ul {
   margin-right: 10px; /* Adjust the value as needed */
 }
 
-
-
 /* SIDEBAR */
-.sidebar {
-
-}
 
 /* logo (photo) size */
 .sidebar-logo {
@@ -48,12 +43,19 @@ main ul {
 		width: 170px;
 		border-radius: 10px;
 		margin-top: 20px;
-		margin-bottom: -10px;
+		margin-bottom: 0px;
+		margin-left: 18px;
    
 }
 
+.sidebar {
+   align-items: center;
+}
+
 .sidebar .sidebar-item {
-   
+  display: flex;
+  margin-bottom:8px;
+  font-size: 14px;
 }
 
 
@@ -63,7 +65,7 @@ main ul {
   font-size: 20px;
   font-weight: bold; /* Optional: customize weight */
   color: #333;  /* Optional: change color */
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   
 }
 
@@ -75,20 +77,31 @@ main ul {
 
 main a {
   /*color: #478F35 !important;*/
+  text-decoration-line: none;
 }
 
 /* 4th-8th item of side bar and subsequent (social) */
-.sidebar .sidebar-item:nth-child(n+4):nth-child(-n+8):hover .sidebar-link,
-.sidebar .sidebar-item:nth-child(10):hover .sidebar-link {
-  transform: scale(1.1);
+.sidebar .sidebar-item:nth-child(n+4):nth-child(-n+8) .sidebar-link,
+.sidebar .sidebar-item:nth-child(10) .sidebar-link {
+
+  
+  transform: scale(1);
+  
+  transition:
+    transform 0.2s ease, background-color 0.2s ease, color 0.2s ease;
+}
+
+/* 4th-8th item of side bar and subsequent (social) */
+.sidebar .sidebar-item:nth-child(n+4):nth-child(-n+8) .sidebar-link:hover,
+.sidebar .sidebar-item:nth-child(10) .sidebar-link:hover {
+  transform: scale(1.05);
   color: #C78700 !important;
 }
 
-
 /* second item of side bar (affiliation) */
 .sidebar .sidebar-item:nth-child(9) {
-  margin-top: 20px;
-  font-size: 16px;
+  margin-top: 25px;
+  font-size: 15px;
   font-weight: bold;
 }
 
