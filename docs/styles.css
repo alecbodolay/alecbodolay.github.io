@@ -8,9 +8,8 @@ body {
 }
 
 #quarto-content {
-  max-width: 1300px;
+  max-width: 1200px;
   margin: auto;
-  padding: 0 4rem;
 }
 
 main {
