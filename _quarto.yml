@@ -57,9 +57,6 @@ format:
     toc: true
     fontawesome: true
     title-block-style: none
-    grid:
-      sidebar-width: 350px
-      body-width: 520px;
  
 editor: source
 

@@ -1,11 +1,28 @@
 /* css styles */
+
 body {
   font-family: "Inter", sans-serif;
   line-height: 1.5;
   font-size: 15px;
   font-weight: 400;
-  margin-left: 120px;
 }
+
+#quarto-content {
+  max-width: 1300px;
+  margin: auto;
+  padding: 0 4rem;
+}
+
+main {
+  width: 100%;
+  margin-left: 20px;
+}
+
+#TOC {
+  margin-top: 25px !important;
+  margin-left: 15px !important;
+}
+
 
 h3 {
   font-size: 20px;
@@ -15,7 +32,8 @@ h3 {
 }
 
 main ul {
-  /*margin-top:-10px;*/
+  margin-top:-5px;
+  margin-bottom:30px;
 }
 
 
@@ -38,24 +56,19 @@ main ul {
     /* Adjust to desired size */
   	object-fit: cover;
   	overflow: hidden;
-    flex-shrink: 0;
 		height: 220px;
 		width: 170px;
 		border-radius: 10px;
 		margin-top: 20px;
 		margin-bottom: 0px;
-		margin-left: 18px;
-   
-}
-
-.sidebar {
-   align-items: center;
+		margin-left: 0px;
 }
 
 .sidebar .sidebar-item {
   display: flex;
   margin-bottom:8px;
   font-size: 14px;
+  justify-content: left; /* Centers the flex items horizontally */
 }
 
 
@@ -111,6 +124,17 @@ main a {
   border-right:0px solid #dee2e6 !important;
 }
 
+.page-layout-full {
+  max-width: 100px;
+  margin: 0 auto;
+}
 
+.nav-footer {
+  position: relative;
+  width: 100%;
+}
 
+.matlab-icon {
+  filter: brightness(0) invert(23%);
+}
 

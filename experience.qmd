@@ -4,27 +4,39 @@ date: ""
 ---
 
 ### Professional Background
-
-{{< fa chart-line size=normalsize >}} \ \ ***Data Science:*** \ Statistical programming; Interactive dashboard design;<br>
-{{< fa gears size=normalsize >}} \ ***Data Engineering:*** \ End-to-end ETL data pipeline design & automation; Dataset transformations;<br>
-{{< fa server size=normalsize >}} \  ***Data Management:*** \ Data centralization and governance; High-performance computing clusters;<br>
-{{< fa brain size=normalsize >}} \ \ ***Neuroimaging:*** \ Magnetic Resonance image processing and analysis of the human brain.<br/>
-
-### Programming & Tools:
 ::: columns
-::: {.column width="45%"}
--   **R** (tidyverse, targets, Shiny)
--   **Python** (pandas, nibabel, scikit-learn)
--   **MATLAB**
+::: {.column width="4%"}
+{{< fa chart-line size=normalsize >}}<br>
+{{< fa code-branch size=normalsize >}}<br>
+{{< fa hard-drive size=small >}}<br>
+{{< fa person-circle-plus size=normalsize >}}<br>
+{{< fa brain size=normalsize >}}
 :::
 
-::: {.column width="35%"}
--   **Shell Scripting** (Bash, zsh)
--   **Git** 
--   **Docker**
+::: {.column width="96%"}
+***Data Science:*** \ Statistical programming; Interactive dashboard design;<br/>
+***Data Engineering:*** \ End-to-end ETL data pipeline design & automation; Dataset transformations;<br/>
+***Data Management:*** \ Data centralization and governance; High-performance computing clusters;<br/>
+***Clinical Trials:*** \ Drug and behavioral interventions.<br/>
+***Neuroimaging:*** \ Magnetic Resonance Imaging analysis of the human brain.
+:::
 :::
 
-::: {.column width="15%"}
+### Programming & Tools
+::: columns
+::: {.column width="46%"}
+<i class="fa-brands fa-r-project fa-xs"></i> \ \ R \ (tidyverse, targets, Shiny) \ \ <br/>
+<i class="fa-brands fa-python"></i> \ \ Python (pandas, nibabel, scikit-learn)<br/>
+![](images/matlab_icon2){.absolute .matlab-icon width="14"} \ \ MATLAB
+:::
+
+::: {.column width="36%"}
+<i class="fa-solid fa-terminal fa-xs"></i> \ \ Shell Scripting (Bash, zsh)<br/>
+<i class="fa-brands fa-git-alt"></i> \ \ Git<br/>
+<i class="fa-brands fa-docker fa-sm"></i> \ Docker<br/>
+:::
+
+::: {.column width="12%"}
 -   **XNAT**
 -   **FlyWheel**
 -   **FSL**
@@ -40,19 +52,15 @@ date: ""
 
 ::: {.column width="91%"}
 `Jun 2025 - Present`{style="float: right; 12px; margin-bottom: -10px;"} **University of Southern California, Los Angeles CA** <br/> 
-Data Engineer (Resource Employee), *Laboratory of NeuroImaging* <br/>
+Data Engineer (Resource Employee), *Laboratory of NeuroImaging* 
 
-- Built and maintained a secure Linux-based research server to support multi-site neuroimaging data governance,
-querying, and analysis workflows.
+- Built and maintained a secure Linux-based research server to support multi-site neuroimaging data governance, querying, and analysis workflows.
 - Deployed and managed imaging informatics platform (XNAT) to centralize MRI data and establish
 infrastructure for multi-site neuroimaging research projects.
-- Collaborated with Principal Investigator to adapt infrastructure and data workflows to changing analytical and
-experimental requirements.
-
+- Collaborated with Principal Investigator to adapt infrastructure and data workflows to changing analytical and experimental requirements.
 :::
 :::
 
-<br>
 
 ::: columns
 ::: {.column width="9%"}
@@ -71,8 +79,6 @@ downstream machine learning and statistical analyses.
 downstream analysis and reporting.
 :::
 :::
-
-<br>
 
 ::: columns
 ::: {.column width="9%"}
@@ -97,8 +103,6 @@ data quality.
 - Trained programmers on code reproducibility, software engineering, and privacy regulations in research.
 :::
 :::
-
-<br>
 
 ::: columns
 ::: {.column width="9%"}

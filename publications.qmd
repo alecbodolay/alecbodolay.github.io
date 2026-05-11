@@ -90,7 +90,7 @@ Jonathan, G., Evins, A. E., Gray, C., **Bodolay, A.**, Potter, K., & Schuster, R
 
 ::: {.column width="95%"}
 [Characteristics of Adolescents Presenting for a Pharmacotherapy Vaping Cessation Trial who Never Smoked Tobacco Regularly](https://www.sciencedirect.com/science/article/abs/pii/S0376871624009074) <br/> 
-Schuster, R., Cather, C., Pachas, G., Iroegbulem, V., Dufour, J. R., Casottana, K. D., Zhao, J., ...<br/> 
+Schuster, R., Cather, C., Pachas, G., Iroegbulem, V., Dufour, J. R., Casottana, K. D., ... <br/> 
 *Drug and Alcohol Dependence*, 267, 111982, 2025.
 :::
 :::
