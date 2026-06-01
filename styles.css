@@ -8,7 +8,7 @@ body {
 }
 
 #quarto-content {
-  max-width: 1200px;
+  max-width: 1170px;
   margin: auto;
 }
 
@@ -65,7 +65,7 @@ main ul {
 
 .sidebar .sidebar-item {
   display: flex;
-  margin-bottom:8px;
+  margin-bottom:6px;
   font-size: 14px;
   justify-content: left; /* Centers the flex items horizontally */
 }
@@ -96,7 +96,6 @@ main a {
 .sidebar .sidebar-item:nth-child(n+4):nth-child(-n+8) .sidebar-link,
 .sidebar .sidebar-item:nth-child(10) .sidebar-link {
 
-  
   transform: scale(1);
   
   transition:
@@ -110,7 +109,7 @@ main a {
   color: #C78700 !important;
 }
 
-/* second item of side bar (affiliation) */
+/* item of side bar (affiliation) */
 .sidebar .sidebar-item:nth-child(9) {
   margin-top: 25px;
   font-size: 15px;

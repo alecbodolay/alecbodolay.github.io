@@ -55,12 +55,12 @@ date: ""
 
 ::: {.column width="91%"}
 
-**Keck School of Medicine of USC** <br/> 
+**Keck School of Medicine of USC, Los Angeles CA** <br/> 
 Programmer Analyst I, *Laboratory of NeuroImaging*  `Jun 2026 - Present`{style="float: right;  font-size: 12px;"}
 
 - [LASI-DAD](https://lasi-dad.org/): Impact of dementia and Alzheimer's disease in the brain in low/middle-income countries (e.g. India) which are understudied in this research field.
 
-Resource Employee, *Laboratory of NeuroImaging*`Jun 2025 - Jun 2026`{style="float: right; font-size: 12px;"} 
+Resource Employee, *Laboratory of NeuroImaging*`Jun 2025 - May 2026`{style="float: right; font-size: 12px;"} 
 
 - Built and maintained a secure Linux-based research server.
 - Centralized multi-site MRI data by deploying and managing an XNAT instance, supporting data governance, querying, and analysis.
