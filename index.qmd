@@ -4,7 +4,7 @@ title: ""
 
 ### About me
 
-I am currently a Programmer Analyst at USC's [Laboratory of Neuroimaging](https://www.loni.usc.edu/) working on advancing brain imaging research {{< fa brain >}}.
+I am currently a Programmer Analyst at USC's [Laboratory of Neuroimaging](https://www.loni.usc.edu/) working on advancing Alzheimer's Disease research through brain imaging {{< fa brain >}}.
 
 I began building my foundation in data science and engineering in 2022 through my role as a Programmer at the [Center for Addiction Medicine](https://www.mghaddictionmedicine.com) at Massachusetts General Hospital, under the supervision of Randi M. Shuster, PhD and Anne Eden Evins, MD, MPH, co-authoring [4 papers](/publications.qmd) on adolescent mental health and substance use clinical trials. 
 

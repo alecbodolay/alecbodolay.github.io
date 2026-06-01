@@ -77,7 +77,7 @@ main ul {
   font-size: 20px;
   font-weight: bold; /* Optional: customize weight */
   color: #333;  /* Optional: change color */
-  margin-bottom: 10px;
+  margin-bottom:2px;
   
 }
 
@@ -135,5 +135,9 @@ main a {
 
 .matlab-icon {
   filter: brightness(0) invert(23%);
+}
+
+.custom-spacing{
+  margin-left: -16px;
 }
 

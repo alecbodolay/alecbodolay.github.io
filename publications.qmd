@@ -3,17 +3,50 @@ title: ""
 date: ""
 ---
 
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+library(scholar)
+library(tidyverse)
+
+# Retrieve  publication entries from Google Scholar and sort chronologically.
+id <- 'v3VYtRkAAAAJ&hl'
+pubs <- scholar::get_publications(id)
+pubs <- pubs[rev(order(pubs$year)), ]
+urls<-scholar::get_article_scholar_url(str_remove(id,"&hl$"), pubs$pubid)
+pubs$urls <- urls
+
+pubs|>write_csv("pubs.csv")
+
+abst<-pubs|>filter(str_detect(journal,"Drug and Alcohol"))
+pubs<-pubs|>filter(!str_detect(journal,"Drug and Alcohol"))
+
+# Format entries as a markdown unordered list.
+pubs_lst <- data.frame(
+  ref = paste0(
+    '[', pubs$title, '](', pubs$urls, ').',
+    '<br/>', pubs$author, '.',
+    '<br/>', pubs$journal, ', ', pubs$year, '.'
+  )
+)
+abst_lst <- data.frame(
+  ref = paste0(
+    '[', abst$title, '](', abst$urls, ').',
+    '<br/>', abst$author, '.',
+    '<br/>', abst$journal, ', ', abst$year, '.'
+  )
+)
+
+pubs_lst$ref <- stringr::str_replace_all(pubs_lst$ref, 'A(lec)?\\s*Bodolay', '**\\0**')
+abst_lst$ref <- stringr::str_replace_all(abst_lst$ref, 'A(lec)?\\s*Bodolay', '**\\0**')
+```
+
 ### Journal
 
 ::: columns
 ::: {.column width="5%"}
 \[1\]
 :::
-
 ::: {.column width="95%"}
-[Understanding Adolescent Mental Health Symptom Progression in School-Based Settings: The Substance Use and Risk Factors (SURF) Survey](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fspq0000681) <br/>
-Costello M. A., Pascale M. P., Potter, K., Knoll, S. J., **Bodolay, A.**, Kaur J., Du, R., ...<br/>
-*School Psychology*, 2025. 
+`r pubs_lst$ref[2]`
 :::
 :::
 
@@ -21,11 +54,8 @@ Costello M. A., Pascale M. P., Potter, K., Knoll, S. J., **Bodolay, A.**, Kaur J
 ::: {.column width="5%"}
 \[2\]
 :::
-
 ::: {.column width="95%"}
-[Substance use, suicidal behaviors, and other mental health outcomes among youth with intersectional sexual and gender diverse identities](https://www.jaacapopen.org/article/S2949-7329(25)00001-8/fulltext) <br/>
-Pachas, G. N., Reeder, H. T., Evins, A. E., Casottana, K., Borrego, M. M., **Bodolay, A.**, ... <br/>
-*Journal of the American Academy of Child & Adolescent Psychiatry Open*, 2025.
+`r pubs_lst$ref[1]`
 :::
 :::
 
@@ -33,11 +63,8 @@ Pachas, G. N., Reeder, H. T., Evins, A. E., Casottana, K., Borrego, M. M., **Bod
 ::: {.column width="5%"}
 \[3\]
 :::
-
 ::: {.column width="95%"}
-[Intention to quit or reduce e-cigarettes, cannabis,and their co-use among a school-based sample of adolescents](https://pubmed.ncbi.nlm.nih.gov/38986353/) <br/>
-Liu, J., Knoll, S. J., Pascale, M. P., Gray, C. A., **Bodolay, A.**, Potter, K. W., Gilman, J., ... <br/>
-*Addictive Behaviors*, 157, 108101, 2024.
+`r pubs_lst$ref[3]`
 :::
 :::
 
@@ -45,11 +72,8 @@ Liu, J., Knoll, S. J., Pascale, M. P., Gray, C. A., **Bodolay, A.**, Potter, K. 
 ::: {.column width="5%"}
 \[4\]
 :::
-
 ::: {.column width="95%"}
-[A Pragmatic Clinical Effectiveness Trial of a Novel Alternative to Punishment for School-Based Substance Use Infractions: Study Protocol for the iDECIDE Curriculum](https://pubmed.ncbi.nlm.nih.gov/37670822/) <br/>
-Gray, C. A., Iroegbulem, V., Deming, B., Butler, R., Howell, D., Pascale, M. P., **Bodolay, A.**, ... <br/>
-*Frontiers in Public Health*, 11, 1203558, 2023.
+`r pubs_lst$ref[4]`
 :::
 :::
 
@@ -59,38 +83,34 @@ Gray, C. A., Iroegbulem, V., Deming, B., Butler, R., Howell, D., Pascale, M. P.,
 ::: {.column width="5%"}
 \[1\]
 :::
-
 ::: {.column width="95%"}
-[Emotional Reactivity is a Transdiagnostic Risk Factor for Substance Use Initiation in Middle and High School Students](https://www.sciencedirect.com/science/article/abs/pii/S0376871624005489) <br/> 
-Costello, M., **Bodolay, A.**, Gray, C., Du, R., Potter, K., & Schuster, R. <br/> 
-*Drug and Alcohol Dependence*, 267, 111623, 2025. 
+`r abst_lst$ref[3]`
 :::
 :::
-
 
 ::: columns
 ::: {.column width="5%"}
 \[2\]
 :::
-
 ::: {.column width="95%"}
-[Co-Occurring Substance Use is a Marker for Greater Internalizing Symptoms Among Adolescents Meeting Screening Criteria for Depression or Anxiety](https://scholar.google.com/scholar?oi=bibs&cluster=8248853287771105728&btnI=1&hl=en&authuser=2) <br/> 
-Jonathan, G., Evins, A. E., Gray, C., **Bodolay, A.**, Potter, K., & Schuster, R. <br/> 
-*Drug and Alcohol Dependence*, 267, 111439, 2025. 
+`r abst_lst$ref[1]`
 :::
 :::
-
-
-
 
 ::: columns
 ::: {.column width="5%"}
 \[3\]
 :::
-
 ::: {.column width="95%"}
-[Characteristics of Adolescents Presenting for a Pharmacotherapy Vaping Cessation Trial who Never Smoked Tobacco Regularly](https://www.sciencedirect.com/science/article/abs/pii/S0376871624009074) <br/> 
-Schuster, R., Cather, C., Pachas, G., Iroegbulem, V., Dufour, J. R., Casottana, K. D., ... <br/> 
-*Drug and Alcohol Dependence*, 267, 111982, 2025.
+`r abst_lst$ref[4]`
+:::
+:::
+
+::: columns
+::: {.column width="5%"}
+\[4\]
+:::
+::: {.column width="95%"}
+`r abst_lst$ref[5]`
 :::
 :::
