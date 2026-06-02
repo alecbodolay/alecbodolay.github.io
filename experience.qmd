@@ -34,7 +34,7 @@ date: ""
 :::
 
 ::: {.column width="36%"}
-{{< fa terminal size=xsmall >}} \ \ Shell Scripting (Bash, zsh)<br/>
+{{< fa terminal size=xs >}} \ \ Shell Scripting (Bash, zsh)<br/>
 <i class="fa-brands fa-git-alt"></i> \ \ Git<br/>
 <i class="fa-brands fa-docker fa-sm"></i> \ Docker<br/>
 :::
