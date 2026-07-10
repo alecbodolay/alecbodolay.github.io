@@ -18,7 +18,7 @@ website:
         text: Education
   sidebar:
     style: docked
-    logo: images/bio-pic3.jpg
+    logo: images/bio-pic3.png
     contents:
       - text: 'Alec Bodolay'
       - text: "INI | USC | UCSB | SMC"
