@@ -4,6 +4,7 @@
 .Rhistory
 
 _site/
-
+*.png
+*.jpg
 
 /.quarto/
